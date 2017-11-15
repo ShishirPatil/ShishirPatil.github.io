@@ -24,7 +24,7 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 h2 {
-    font-size: 1.75em;
+    font-size: 1.65em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
@@ -53,3 +53,13 @@ ul {
 ul li {
     list-style: disc;
 }
+
+ol { 
+    margin: 10px auto 40px; 
+    font-size: 1em;
+}
+
+ol li {
+    list-style: I
+}
+
