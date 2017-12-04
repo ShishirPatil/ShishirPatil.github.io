@@ -11,7 +11,7 @@ title: Shishir Patil
         <p>
             <ul>
                 <li><a href ='https://github.com/Microsoft/EdgeML'>Intelligent Devices Expedition: </a>
-                Implementing Machine Learning algorithms: ProtoNN (kNN based) and Bonsai (Tree Based), on tiny Edge devices (arduino class and ARM Cortex M0 class). You can hear Satya Nadella discussing this project here:</li>
+                Implementing Machine Learning algorithms: ProtoNN (kNN based) and Bonsai (Tree Based), on tiny Edge devices (arduino class and ARM Cortex M0 class). You can hear Satya Nadella discussing this project <a href=' ​​http://bit.ly/2m5tRLO​​'>here</a>​(minute​ ​6:00-7:30). </li>
 
                 <li>Involved in designing and developing a Gesture Recognition system for Hololens and X-Box.</li>
 
