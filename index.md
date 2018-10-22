@@ -3,15 +3,15 @@ layout: default
 title: Shishir Patil
 ---
 <div class="blurb">
-	<h1>Hi there, I'm Shishir Patil!</h1>
-    	<p>I am a Research Fellow at <a href ='https://www.microsoft.com/en-us/research/lab/microsoft-research-india/'>Microsoft Research India</a>. I am advised by <a href='https://www.microsoft.com/en-us/research/people/visesha/'>Vivek Seshadri</a>,  <a href='http://harsha-simhadri.org/'>Harsha Vardhan Simhadri</a> from the <em>Systems Group</em> and <a href='https://www.microsoft.com/en-us/research/people/prajain/'>Prateek Jain</a> from the <em>Machine Learning and Optimization Group</em>.   
+	<h2>Hi there, I'm Shishir Patil!</h2>
+    	<p>I am a Research Fellow at <a href ='https://www.microsoft.com/en-us/research/lab/microsoft-research-india/'>Microsoft Research India</a>. I am advised by <a href='http://www.prateekjain.org/'>Prateek Jain</a> from the <em>Machine Learning and Optimization Group</em> and <a href='http://harsha-simhadri.org/'>Harsha Vardhan Simhadri</a>, <a href='https://www.microsoft.com/en-us/research/people/visesha/'>Vivek Seshadri</a> from the <em>Systems Group</em>.   
             <!-- <a href="/about">Read more about my life...</a> -->
         </p>
 
         <p>Update: <a href = 'https://nips.cc/Expo/Conferences/2018/Schedule?demo_id=3'> We will be presenting our work at NIPS 2018</a> 
         </p>
     
-    <h2>I am currently working on:</h2><hr>
+    <h3>I am currently working on:</h3><hr>
         <p>
             <ul>
                 <li><a href ='https://github.com/Microsoft/EdgeML'>Intelligent Devices Expedition: </a>

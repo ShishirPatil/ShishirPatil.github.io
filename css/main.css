@@ -2,12 +2,22 @@ body {
     margin: 60px auto;
     width: 70%;
 }
-nav ul, footer ul {
+nav ul{
+    font-size: 1.2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
 }
+
+footer ul {
+    font-size: 1.5em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+}
+
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
@@ -24,6 +34,10 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 h2 {
+    font-size: 2em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+h3 {
     font-size: 1.65em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
