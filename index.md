@@ -7,6 +7,9 @@ title: Shishir Patil
     	<p>I am a Research Fellow at <a href ='https://www.microsoft.com/en-us/research/lab/microsoft-research-india/'>Microsoft Research India</a>. I am advised by <a href='https://www.microsoft.com/en-us/research/people/visesha/'>Vivek Seshadri</a>,  <a href='http://harsha-simhadri.org/'>Harsha Vardhan Simhadri</a> from the <em>Systems Group</em> and <a href='https://www.microsoft.com/en-us/research/people/prajain/'>Prateek Jain</a> from the <em>Machine Learning and Optimization Group</em>.   
             <!-- <a href="/about">Read more about my life...</a> -->
         </p>
+
+        <p>Update: <a href = 'https://nips.cc/Expo/Conferences/2018/Schedule?demo_id=3'> We will be presenting our work at NIPS 2018</a> 
+        </p>
     
     <h2>I am currently working on:</h2><hr>
         <p>
@@ -31,7 +34,6 @@ title: Shishir Patil
                                 In this project, we are investigating novel techniques to build a scalable framework to address the second component - transmission of data from the sensors to a server.
                             </ol>
                         </li>
-                        Watch this space for exciting announcements...! 
                     </ul> 
                 </p>
 
