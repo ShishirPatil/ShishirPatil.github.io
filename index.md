@@ -30,9 +30,9 @@ title: Shishir Patil
                             <ol>
                                 <li>Sensor systems that capture the physical phenomenon</li>
                                 <li>Transmission of data from the sensors to cloud/server</li>
-                                <li>Getting meaningfull insights from the data</li>
-                                In this project, we are investigating novel techniques to build a scalable framework to address the second component - transmission of data from the sensors to a server.
+                                <li>Getting meaningfull insights from the data.</li>
                             </ol>
+                            In this project, we are investigating novel techniques to build a scalable framework to address the second component - transmission of data from the sensors to a server.
                         </li>
                     </ul> 
                 </p>
