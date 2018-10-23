@@ -65,6 +65,7 @@ p {
     font-family: 'Linux Libertine', 'Helvetica', 'Arial', 'Sans-Serif';
     line-height: 1.4em;
     color: #333;
+    text-align: justify;
 }
 footer {
     border-top: 1px solid #d5d5d5;
@@ -86,6 +87,7 @@ ul {
 
 ul li {
     list-style: disc;
+    text-align: justify;
 }
 
 ol { 
@@ -94,6 +96,7 @@ ol {
 }
 
 ol li {
-    list-style: I
+    list-style: I;
+    text-align: justify;
 }
 

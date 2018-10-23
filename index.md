@@ -3,16 +3,16 @@ layout: default
 title: Shishir Patil
 ---
 <div class="blurb">
-	<h2>Hi there, I'm Shishir Patil!</h2>
+	<!-- <h2>Hi there, I'm Shishir Patil!</h2> -->
     	<p>I am a Research Fellow at <a href ='https://www.microsoft.com/en-us/research/lab/microsoft-research-india/'>Microsoft Research India</a>. I am advised by <a href='http://www.prateekjain.org/'>Prateek Jain</a> from the <em>Machine Learning and Optimization Group</em> and <a href='http://harsha-simhadri.org/'>Harsha Vardhan Simhadri</a>, <a href='https://www.microsoft.com/en-us/research/people/visesha/'>Vivek Seshadri</a> from the <em>Systems Group</em>.   
             <!-- <a href="/about">Read more about my life...</a> -->
         </p>
 
-        <p> Prior to this, I obtained a B.E. in Electronics and Communication Engineering from R.V. College of Engineering in 2017 (awarded University Gold Medal). During my undergraduate program, I worked with <a href ='http://www.cense.iisc.ac.in/m-m-nayak'>Prof. M.M. Nayak</a> from Center for Nano Science and Engineering, <a href = 'http://www.iisc.ac.in/'>Indian Institute of Science</a> from 2016-2017. I was also an intern with <a href='http://www.siemens.co.in/about-us/innovations/stspl/ctdcin.htm'>Siemens R&D</a> in the summer of 2015.</p>
-
-        <p>Update: <a href = 'https://nips.cc/Expo/Conferences/2018/Schedule?demo_id=3'> We will be presenting our work at NIPS 2018</a> 
+        <p>Update: <a href = 'https://nips.cc/Expo/Conferences/2018/Schedule?demo_id=3'> We will be presenting our work at NIPS 2018!</a> 
         </p>
-    <h3>I am currently working on:</h3><hr>
+        <hr>
+
+    <h3>I am currently working on:</h3>
         <p>
             <ul>
                 <li><a href ='https://github.com/Microsoft/EdgeML'>Intelligent Devices Expedition: </a>
@@ -32,6 +32,8 @@ title: Shishir Patil
                 </li>
             </ul> 
         </p>
+
+        <p> Prior to this, I obtained a B.E. in Electronics and Communication Engineering from R.V. College of Engineering in 2017 (awarded University Gold Medal). During my undergraduate program, I worked with <a href ='http://www.cense.iisc.ac.in/m-m-nayak'>Prof. M.M. Nayak</a> from Center for Nano Science and Engineering, <a href = 'http://www.iisc.ac.in/'>Indian Institute of Science</a> from 2016-2017. I was also an intern with <a href='http://www.siemens.co.in/about-us/innovations/stspl/ctdcin.htm'>Siemens R&D</a> in the summer of 2015.</p>
 
 </div><!-- /.blurb -->
 
