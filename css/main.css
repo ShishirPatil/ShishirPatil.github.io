@@ -22,8 +22,18 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
+
 a {
     text-decoration: none;
+    color: #679;
+}
+
+a-pub {
+    text-decoration: none;
+}
+
+a-pub:hover {
+    text-decoration: underline;
     color: #679;
 }
 
@@ -32,9 +42,11 @@ co-author-name {
     color: #736A6A;
 
 }
+
 a:hover {
     text-decoration: underline;
 }
+
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';

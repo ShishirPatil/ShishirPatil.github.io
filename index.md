@@ -22,18 +22,21 @@ title: Shishir Patil
         </p>
         <p>
             <ul>
-                <li>Pulscity: Deplyoing IoT for urban cities involves 3 components:
-                    <ol>
-                        <li>Sensor systems that capture the physical phenomenon</li>
-                        <li>Transmission of data from the sensors to cloud/server</li>
-                        <li>Getting meaningfull insights from the data.</li>
-                    </ol>
-                    In this project, we are investigating novel techniques to build a scalable framework to address the second component - transmission of data from the sensors to a server.
+                <li>Pulscity: Deplyoing IoT for urban cities involves 3 chanllenges:
+                    (a) Deploying sensor systems that capture the physical phenomenon (b)
+                    Transmission of data from the sensors to cloud/server and (c)
+                    Getting meaningfull insights from the data.
+                    In this project, we propose novel techniques to build a scalable framework to address the communication component - transmission of data from the sensors to centralised server.
                 </li>
             </ul> 
-        </p>
+        </p><hr>
 
-        <p> Prior to this, I obtained a B.E. in Electronics and Communication Engineering from R.V. College of Engineering in 2017 (awarded University Gold Medal). During my undergraduate program, I worked with <a href ='http://www.cense.iisc.ac.in/m-m-nayak'>Prof. M.M. Nayak</a> from Center for Nano Science and Engineering, <a href = 'http://www.iisc.ac.in/'>Indian Institute of Science</a> from 2016-2017. I was also an intern with <a href='http://www.siemens.co.in/about-us/innovations/stspl/ctdcin.htm'>Siemens R&D</a> in the summer of 2015.</p>
+        <p> Prior to this, I obtained a B.E. in Electronics and Communication Engineering from R.V.
+            College of Engineering in 2017 (awarded University Gold Medal). During my undergraduate 
+            program, I worked with <a href ='http://www.cense.iisc.ac.in/m-m-nayak'>Prof. M.M. Nayak</a>
+            from Center for Nano Science and Engineering, <a href = 'http://www.iisc.ac.in/'>Indian 
+            Institute of Science</a> from 2016-2017. I was also an intern with <a href='http://www.siemens.co.in/about-us/innovations/stspl/ctdcin.htm'>Siemens R&D</a> in the
+            summer of 2015.</p>
 
 </div><!-- /.blurb -->
 
