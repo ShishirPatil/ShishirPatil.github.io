@@ -62,6 +62,7 @@ p-pub {
 
 p {
     font-size: 1.5em;
+    font-family: 'Linux Libertine', 'Helvetica', 'Arial', 'Sans-Serif';
     line-height: 1.4em;
     color: #333;
 }
@@ -79,7 +80,7 @@ ul.posts li {
     list-style: none;
 }
 ul { 
-    margin: 20px auto 40px; 
+    margin: 5px auto 5px; 
     font-size: 1.5em;
 }
 
@@ -88,7 +89,7 @@ ul li {
 }
 
 ol { 
-    margin: 10px auto 10px; 
+    margin: 5px auto 5px; 
     font-size: 1em;
 }
 

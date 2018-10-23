@@ -8,7 +8,7 @@ title: Shishir Patil
             <!-- <a href="/about">Read more about my life...</a> -->
         </p>
 
-        <p> Prior to this I obtained a B.E. in Electronics and Communication Engineering from R.V. College of Engineering in 2017 (awarded University Gold Medal). During my undergraduate program, I worked with <a href ='http://www.cense.iisc.ac.in/m-m-nayak'>Prof. M.M. Nayak</a> from Center for Nano Science and Engineering, <a href = 'http://www.iisc.ac.in/'>Indian Institute of Science</a> from 2016-2017. I was also an intern with <a href='http://www.siemens.co.in/about-us/innovations/stspl/ctdcin.htm'>Siemens R&D</a> in the summer of 2015.</p>
+        <p> Prior to this, I obtained a B.E. in Electronics and Communication Engineering from R.V. College of Engineering in 2017 (awarded University Gold Medal). During my undergraduate program, I worked with <a href ='http://www.cense.iisc.ac.in/m-m-nayak'>Prof. M.M. Nayak</a> from Center for Nano Science and Engineering, <a href = 'http://www.iisc.ac.in/'>Indian Institute of Science</a> from 2016-2017. I was also an intern with <a href='http://www.siemens.co.in/about-us/innovations/stspl/ctdcin.htm'>Siemens R&D</a> in the summer of 2015.</p>
 
         <p>Update: <a href = 'https://nips.cc/Expo/Conferences/2018/Schedule?demo_id=3'> We will be presenting our work at NIPS 2018</a> 
         </p>
@@ -16,7 +16,7 @@ title: Shishir Patil
         <p>
             <ul>
                 <li><a href ='https://github.com/Microsoft/EdgeML'>Intelligent Devices Expedition: </a>
-                Machine learning predictions on edge devices is critical in many scenarios where we are constrained by latency and bandwidth or value data privacy and battery life. Examples of such scenarios are Internet of Things (IoT) and wearable electronics. In this project we are designing new ML algorithms that can generate extremely small models that can enable prediction on edge devices with accuracies comparable to cloud solutions. These algorithms can be deployed on microcontrollers that use milliWatts of power and have just a few kB of RAM.
+                Machine learning predictions on edge devices (microcontrollers) is critical in many scenarios where we are constrained by latency and bandwidth or value data privacy and battery life. e.g. Internet of Things (IoT) and wearable electronics. In this project we are designing new ML algorithms that generate extremely small models that can enable prediction on edge devices with accuracies comparable to cloud solutions. <!-- These algorithms can be deployed on microcontrollers that use milliWatts of power and have just a few kB of RAM. -->
                 </li>
             </ul>
         </p>
