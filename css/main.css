@@ -26,6 +26,12 @@ a {
     text-decoration: none;
     color: #679;
 }
+
+co-author-name {
+    text-decoration: none;
+    color: #736A6A;
+
+}
 a:hover {
     text-decoration: underline;
 }
@@ -41,6 +47,19 @@ h3 {
     font-size: 1.65em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
+
+h4-pub {
+    font-size: 1.5em;
+    font-family: 'Linux Libertine', 'Helvetica', 'Arial', 'Sans-Serif';
+}
+
+p-pub {
+    font-size: 1.2em;
+    font-family: 'Linux Libertine', 'Helvetica', 'Arial', 'Sans-Serif';
+    line-height: 1.4em;
+    color: #333;
+}
+
 p {
     font-size: 1.5em;
     line-height: 1.4em;
