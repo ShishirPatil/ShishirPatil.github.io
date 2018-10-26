@@ -35,7 +35,7 @@ title: Shishir Patil
             College of Engineering in 2017 (awarded University Gold Medal). During my undergraduate 
             program, I worked with <a href ='http://www.cense.iisc.ac.in/m-m-nayak'>Prof. M.M. Nayak</a>
             from Center for Nano Science and Engineering, <a href = 'http://www.iisc.ac.in/'>Indian 
-            Institute of Science</a> from 2016-2017. I was also an intern with <a href='http://www.siemens.co.in/about-us/innovations/stspl/ctdcin.htm'>Siemens R&D</a> in the
+            Institute of Science</a> from 2016-2017. I was an intern with Siemens R&D in the
             summer of 2015.</p>
 
 </div><!-- /.blurb -->
