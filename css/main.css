@@ -26,7 +26,14 @@ nav ul li, footer ul li {
 a {
     text-decoration: none;
     color: #679;
+    font-family: 'Linux Libertine', 'Helvetica', 'Arial', 'Sans-Serif';
 }
+
+a:hover {
+    text-decoration: underline;
+    font-family: 'Linux Libertine', 'Helvetica', 'Arial', 'Sans-Serif';
+}
+
 
 a-pub {
     text-decoration: none;
@@ -43,16 +50,12 @@ co-author-name {
 
 }
 
-a:hover {
-    text-decoration: underline;
-}
-
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 h2 {
-    font-size: 2em;
+    font-size: 1.5em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 h3 {
