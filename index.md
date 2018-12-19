@@ -2,13 +2,18 @@
 layout: default
 title: Shishir Patil
 ---
+
 <div class="blurb">
 	<!-- <h2>Hi there, I'm Shishir Patil!</h2> -->
     	<p>I am a Research Fellow at <a href ='https://www.microsoft.com/en-us/research/lab/microsoft-research-india/'>Microsoft Research India</a>. I am advised by <a href='http://www.prateekjain.org/'>Prateek Jain</a> from the <em>Machine Learning and Optimization Group,</em> and <a href='http://harsha-simhadri.org/'>Harsha Vardhan Simhadri</a>, <a href='https://www.microsoft.com/en-us/research/people/visesha/'>Vivek Seshadri</a> from the <em>Systems Group</em>.   
             <!-- <a href="/about">Read more about my life...</a> -->
         </p>
 
-        <p>Update: <a href = 'https://nips.cc/Expo/Conferences/2018/Schedule?demo_id=3'> We will be presenting our work at NIPS 2018!</a> 
+        <p>News:<br>
+        [Dec 2018] <a href = 'https://www.zdnet.com/video/microsoft-researchers-add-smarts-to-everyday-objects/?fbclid=IwAR3DCey1X675mQ-uk7mu1Wl8aFXM4AQGNL4SygercVQY6PsmDkFvO3P9BE8'>JD Net covers our work at (NeurIPS) NIPS 2018</a>
+        <br>
+        [Nov 2018] <a href = 'https://nips.cc/Expo/Conferences/2018/Schedule?demo_id=3'> We will be presenting our work at (NeurIPS) NIPS 2018!</a><br>
+
         </p>
         <hr>
 
