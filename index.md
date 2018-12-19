@@ -7,11 +7,13 @@ title: Shishir Patil
 <style type="text/css">
 	.mobile{
 		width : 25%;
+		height: auto;
 		margin: 1em 0em;
 	}
 	@media only screen and (max-width: 600px) {
 	  .mobile{
 			width :50%;
+			height: auto;
 		}
 
 	}
@@ -45,7 +47,7 @@ title: Shishir Patil
         <p>
             <ul>
                 <li><a href ='https://github.com/Microsoft/EdgeML'>Edge ML:</a>
-                 Machine learning predictions on edge devices (microcontrollers) are critical in many scenarios where we are constrained by latency and bandwidth or value data privacy and battery life. e.g., Internet of Things (IoT) and wearable electronics. In this project, we are designing new ML algorithms that generate tiny models that can enable prediction on edge devices with accuracies comparable to cloud solutions. <!-- These algorithms can be deployed on microcontrollers that use milliwatts of power and have just a few kB of RAM. -->
+                 Machine learning predictions on edge devices (microcontrollers) are critical in many scenarios where we are constrained by latency and bandwidth or value data privacy and battery life. e.g., Internet of Things (IoT) and wearable electronics. In this project, we are designing new ML algorithms that generate tiny models that can enable prediction on edge devices with accuracy comparable to cloud solutions. <!-- These algorithms can be deployed on microcontrollers that use milliwatts of power and have just a few kB of RAM. -->
                 </li>
             </ul>
         </p>
