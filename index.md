@@ -4,7 +4,7 @@ title: Shishir Patil
 ---
 <div class="blurb">
 	<!-- <h2>Hi there, I'm Shishir Patil!</h2> -->
-    	<p>I am a Research Fellow at <a href ='https://www.microsoft.com/en-us/research/lab/microsoft-research-india/'>Microsoft Research India</a>. I am advised by <a href='http://www.prateekjain.org/'>Prateek Jain</a> from the <em>Machine Learning and Optimization Group</em> and <a href='http://harsha-simhadri.org/'>Harsha Vardhan Simhadri</a>, <a href='https://www.microsoft.com/en-us/research/people/visesha/'>Vivek Seshadri</a> from the <em>Systems Group</em>.   
+    	<p>I am a Research Fellow at <a href ='https://www.microsoft.com/en-us/research/lab/microsoft-research-india/'>Microsoft Research India</a>. I am advised by <a href='http://www.prateekjain.org/'>Prateek Jain</a> from the <em>Machine Learning and Optimization Group,</em> and <a href='http://harsha-simhadri.org/'>Harsha Vardhan Simhadri</a>, <a href='https://www.microsoft.com/en-us/research/people/visesha/'>Vivek Seshadri</a> from the <em>Systems Group</em>.   
             <!-- <a href="/about">Read more about my life...</a> -->
         </p>
 
