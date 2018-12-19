@@ -23,19 +23,25 @@ title: Shishir Patil
 
 <div class="blurb">
 	<!-- <h2>Hi there, I'm Shishir Patil!</h2> -->
-    	<p>I am a <i>Research Fellow</i> at <a href ='https://www.microsoft.com/en-us/research/lab/microsoft-research-india/'>Microsoft Research India</a>. I am advised by <a href='http://www.prateekjain.org/'>Prateek Jain</a> from the <em>Machine Learning and Optimization Group,</em> <a href='http://harsha-simhadri.org/'>Harsha Vardhan Simhadri</a> and <a href='https://www.microsoft.com/en-us/research/people/visesha/'>Vivek Seshadri</a> from the <em>Systems Group</em>.   
+    	<p style="font-size:1.3em;">I am a <i>Research Fellow</i> at <a href ='https://www.microsoft.com/en-us/research/lab/microsoft-research-india/'>Microsoft Research India</a>. I am advised by <a href='http://www.prateekjain.org/'>Prateek Jain</a> from the <em>Machine Learning and Optimization Group,</em> <a href='http://harsha-simhadri.org/'>Harsha Vardhan Simhadri</a> and <a href='https://www.microsoft.com/en-us/research/people/visesha/'>Vivek Seshadri</a> from the <em>Systems Group</em>.   
             <!-- <a href="/about">Read more about my life...</a> -->
         </p>
 
-        <p>News:<br>
+        <p style="font-size:1em;">News:<br>
         [Dec 2018] <a href = 'https://www.zdnet.com/video/microsoft-researchers-add-smarts-to-everyday-objects/?fbclid=IwAR3DCey1X675mQ-uk7mu1Wl8aFXM4AQGNL4SygercVQY6PsmDkFvO3P9BE8'>JD Net covers our work at (NeurIPS) NIPS 2018</a>
         <br>
         [Nov 2018] <a href = 'https://nips.cc/Expo/Conferences/2018/Schedule?demo_id=3'> We will be presenting our work at (NeurIPS) NIPS 2018!</a><br>
+        [Nov 2018] Demonstrated programmable gesture recognition on X-Box controllers with EdgeML<br>
+        [Oct 2018] <a href = 'https://github.com/Microsoft/EdgeML'> GesturePod implementation and simulation OSS</a><br>
+        [Mar 2018] <a href = 'https://drive.google.com/file/d/1vQV4ENhC_lkg9FC7BLv6aRDP3e_VgWnX/view?usp=sharing'> Presented my work to Bill G!</a><br>
+        [Dec 2017] Our work covered by <a href='http://epaper.financialexpress.com/1462735/Indian-Express/December-11,-2017#page/8/1'>Financial Express</a> and 
+        <a href = 'https://blogs.microsoft.com/ai/ais-big-leap-tiny-devices-opens-world-possibilities/'>Microsoft AI blog</a>. 
+
 
         </p>
         <hr>
 
-    <h3>Current Projects:</h3>
+    <h3>My Current Projects:</h3>
         <p>
             <ul>
                 <li><a href ='https://github.com/Microsoft/EdgeML'>Edge ML:</a>

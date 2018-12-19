@@ -59,7 +59,7 @@ h2 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 h3 {
-    font-size: 1.65em;
+    font-size: 1.3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 
@@ -71,12 +71,12 @@ h4-pub {
 p-pub {
     font-size: 1.2em;
     font-family: 'Linux Libertine', 'Helvetica', 'Arial', 'Sans-Serif';
-    line-height: 1.4em;
+    line-height: 1.2em;
     color: #333;
 }
 
 p {
-    font-size: 1.5em;
+    font-size: 1.2em;
     font-family: 'Linux Libertine', 'Helvetica', 'Arial', 'Sans-Serif';
     line-height: 1.2em;
     color: #333;
@@ -89,7 +89,7 @@ footer {
 
 ul.posts { 
     margin: 20px auto 40px; 
-    font-size: 1.5em;
+    font-size: 1.2em;
 }
 
 ul.posts li {
@@ -97,7 +97,7 @@ ul.posts li {
 }
 ul { 
     margin: 5px auto 5px; 
-    font-size: 1.5em;
+    font-size: 1.2em;
 }
 
 ul li {
