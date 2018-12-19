@@ -16,17 +16,17 @@ title: Shishir Patil
         <p>
             <ul>
                 <li><a href ='https://github.com/Microsoft/EdgeML'>Intelligent Devices Expedition: </a>
-                Machine learning predictions on edge devices (microcontrollers) is critical in many scenarios where we are constrained by latency and bandwidth or value data privacy and battery life. e.g. Internet of Things (IoT) and wearable electronics. In this project we are designing new ML algorithms that generate extremely small models that can enable prediction on edge devices with accuracies comparable to cloud solutions. <!-- These algorithms can be deployed on microcontrollers that use milliWatts of power and have just a few kB of RAM. -->
+                Machine learning predictions on edge devices (microcontrollers) are critical in many scenarios where we are constrained by latency and bandwidth or value data privacy and battery life. e.g., Internet of Things (IoT) and wearable electronics. In this project, we are designing new ML algorithms that generate tiny models that can enable prediction on edge devices with accuracies comparable to cloud solutions. <!-- These algorithms can be deployed on microcontrollers that use milliWatts of power and have just a few kB of RAM. -->
                 </li>
             </ul>
         </p>
         <p>
             <ul>
-                <li>Pulscity: Deplyoing IoT for urban cities involves 3 chanllenges:
+                <li>Pulscity: Deploying IoT for urban cities involves 3 challenges:
                     (a) Deploying sensor systems that capture the physical phenomenon (b)
                     Transmission of data from the sensors to cloud/server and (c)
-                    Getting meaningfull insights from the data.
-                    In this project, we propose novel techniques to build a scalable framework to address the communication component - transmission of data from the sensors to centralised server.
+                    Getting meaningful insights from the data.
+                    In this project, we propose novel techniques to build a scalable framework to address the communication component - transmission of data from the sensors to a centralized server.
                 </li>
             </ul> 
         </p><hr>
