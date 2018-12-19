@@ -16,13 +16,13 @@ title: Shishir Patil
         <p>
             <ul>
                 <li><a href ='https://github.com/Microsoft/EdgeML'>Intelligent Devices Expedition: </a>
-                Machine learning predictions on edge devices (microcontrollers) are critical in many scenarios where we are constrained by latency and bandwidth or value data privacy and battery life. e.g., Internet of Things (IoT) and wearable electronics. In this project, we are designing new ML algorithms that generate tiny models that can enable prediction on edge devices with accuracies comparable to cloud solutions. <!-- These algorithms can be deployed on microcontrollers that use milliWatts of power and have just a few kB of RAM. -->
+                Machine learning predictions on edge devices (microcontrollers) are critical in many scenarios where we are constrained by latency and bandwidth or value data privacy and battery life. e.g., Internet of Things (IoT) and wearable electronics. In this project, we are designing new ML algorithms that generate tiny models that can enable prediction on edge devices with accuracies comparable to cloud solutions. <!-- These algorithms can be deployed on microcontrollers that use milliwatts of power and have just a few kB of RAM. -->
                 </li>
             </ul>
         </p>
         <p>
             <ul>
-                <li>Pulscity: Deploying IoT for urban cities involves 3 challenges:
+                <li>PulsCity: Deploying IoT for urban cities involves 3 challenges:
                     (a) Deploying sensor systems that capture the physical phenomenon (b)
                     Transmission of data from the sensors to cloud/server and (c)
                     Getting meaningful insights from the data.
