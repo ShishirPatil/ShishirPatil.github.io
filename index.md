@@ -7,15 +7,15 @@ title: Shishir Patil
 <style type="text/css">
 	.mobile{
 		width : 25%;
-		height: auto;
+		height: 25%;
 		margin: 1em 0em;
 	}
 	@media only screen and (max-width: 600px) {
 	  .mobile{
 			width :50%;
-			height: auto;
+			height:50%;
+			margin: 1em 0em;
 		}
-
 	}
 </style>
 <div style="display: flex; justify-content: left;">
