@@ -30,10 +30,10 @@ title: Shishir Patil
         </p>
 
         <p style="font-size:1em;">News:<br>
-        [Dec 2018] <a href = 'https://www.zdnet.com/video/microsoft-researchers-add-smarts-to-everyday-objects/?fbclid=IwAR3DCey1X675mQ-uk7mu1Wl8aFXM4AQGNL4SygercVQY6PsmDkFvO3P9BE8'>JD Net covers our work at (NeurIPS) NIPS 2018</a>
+        [Dec 2018] <a href = 'https://www.zdnet.com/video/microsoft-researchers-add-smarts-to-everyday-objects/?fbclid=IwAR3DCey1X675mQ-uk7mu1Wl8aFXM4AQGNL4SygercVQY6PsmDkFvO3P9BE8'>ZD Net covers our work at (NeurIPS) NIPS 2018</a>
         <br>
         [Nov 2018] <a href = 'https://nips.cc/Expo/Conferences/2018/Schedule?demo_id=3'> We will be presenting our work at (NeurIPS) NIPS 2018!</a><br>
-        [Nov 2018] Demonstrated programmable gesture recognition on X-Box controllers with EdgeML<br>
+        [Nov 2018] Demonstrated programmable gesture recognition on Xbox controllers with EdgeML<br>
         [Oct 2018] <a href = 'https://github.com/Microsoft/EdgeML'> GesturePod implementation and simulation OSS</a><br>
         [Mar 2018] <a href = 'https://drive.google.com/file/d/1vQV4ENhC_lkg9FC7BLv6aRDP3e_VgWnX/view?usp=sharing'> Presented my work to Bill G!</a><br>
         [Dec 2017] Our work covered by <a href='http://epaper.financialexpress.com/1462735/Indian-Express/December-11,-2017#page/8/1'>Financial Express</a> and 
