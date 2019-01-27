@@ -35,7 +35,7 @@ title: Shishir Patil
         [Nov 2018] <a href = 'https://nips.cc/Expo/Conferences/2018/Schedule?demo_id=3'> We will be presenting our work at (NeurIPS) NIPS 2018!</a><br>
         [Nov 2018] Demonstrated programmable gesture recognition on Xbox controllers with EdgeML<br>
         [Oct 2018] <a href = 'https://github.com/Microsoft/EdgeML'> GesturePod implementation and simulation OSS</a><br>
-        [Mar 2018] <a href = 'https://drive.google.com/file/d/1vQV4ENhC_lkg9FC7BLv6aRDP3e_VgWnX/view?usp=sharing'> Presented my work to Bill G!</a><br>
+        [Mar 2018] <a href = 'https://drive.google.com/file/d/1vQV4ENhC_lkg9FC7BLv6aRDP3e_VgWnX/view?usp=sharing'> Presented my work to Bill Gates!</a><br>
         [Dec 2017] Our work covered by <a href='http://epaper.financialexpress.com/1462735/Indian-Express/December-11,-2017#page/8/1'>Financial Express</a> and 
         <a href = 'https://blogs.microsoft.com/ai/ais-big-leap-tiny-devices-opens-world-possibilities/'>Microsoft AI blog</a>. 
 
