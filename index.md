@@ -60,7 +60,7 @@ title: Shishir Patil
                     In this project, we propose novel techniques to build a scalable framework to address the communication component - transmission of data from the sensors to a centralized server.
                 </li>
                 <br>
-                <i>My past projects can be found in my <a href='https://drive.google.com/file/d/1Fdmc4aNIdXnHyt9MQlyiXhmM2GKku8Ya/view?usp=sharing'>CV</a></i>
+                <!-- <i>My past projects can be found in my <a href='https://drive.google.com/file/d/1Fdmc4aNIdXnHyt9MQlyiXhmM2GKku8Ya/view?usp=sharing'>CV</a></i> -->
             </ul> 
 
         </p><hr>
