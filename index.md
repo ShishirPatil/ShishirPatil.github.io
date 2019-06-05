@@ -6,8 +6,8 @@ title: Shishir Patil
 <!-- Shishir's Photo -->
 <style type="text/css">
 	.mobile{
-		width : 25%;
-		height: 25%;
+		width : 100%;
+		height: 100%;
 		margin: 1em 0em;
 	}
 	@media only screen and (max-width: 600px) {
