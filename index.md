@@ -25,31 +25,29 @@ title: Shishir Patil
 
 <div class="blurb">
 	<!-- <h2>Hi there, I'm Shishir Patil!</h2> -->
-    	<p style="font-size:1.3em;">I am a <i>Research Fellow</i> at <a href ='https://www.microsoft.com/en-us/research/lab/microsoft-research-india/'>Microsoft Research India</a>. I am advised by <a href='http://www.prateekjain.org/'>Prateek Jain</a>, 
-            <!-- from the <em>Machine Learning and Optimization Group,</em>  -->
-            <a href='http://harsha-simhadri.org/'>Harsha Vardhan Simhadri</a> and <a href='https://www.microsoft.com/en-us/research/people/visesha/'>Vivek Seshadri</a> from the <em>Systems Group</em>.   
+    	<p style="font-size:1.3em;">I am a <i>Research Fellow</i> at <a href ='https://www.microsoft.com/en-us/research/lab/microsoft-research-india/'>Microsoft Research India</a>. I am advised by <a href='http://www.prateekjain.org/'>Prateek Jain</a> from the <em>Machine Learning and Optimization Group,</em> <a href='http://harsha-simhadri.org/'>Harsha Vardhan Simhadri</a> and <a href='https://www.microsoft.com/en-us/research/people/visesha/'>Vivek Seshadri</a> from the <em>Systems Group</em>.   
             <!-- <a href="/about">Read more about my life...</a> -->
         </p>
 
         <p style="font-size:1em;">News:<br>
-<!--         [Dec 2018] <a href = 'https://www.zdnet.com/video/microsoft-researchers-add-smarts-to-everyday-objects/?fbclid=IwAR3DCey1X675mQ-uk7mu1Wl8aFXM4AQGNL4SygercVQY6PsmDkFvO3P9BE8'>ZD Net covers our work at (NeurIPS) NIPS 2018</a>
+        [Dec 2018] <a href = 'https://www.zdnet.com/video/microsoft-researchers-add-smarts-to-everyday-objects/?fbclid=IwAR3DCey1X675mQ-uk7mu1Wl8aFXM4AQGNL4SygercVQY6PsmDkFvO3P9BE8'>ZD Net covers our work at (NeurIPS) NIPS 2018</a>
         <br>
         [Nov 2018] <a href = 'https://nips.cc/Expo/Conferences/2018/Schedule?demo_id=3'> We will be presenting our work at (NeurIPS) NIPS 2018!</a><br>
-        [Nov 2018] Demonstrated programmable gesture recognition on Xbox controllers with EdgeML<br> -->
+        [Nov 2018] Demonstrated programmable gesture recognition on Xbox controllers with EdgeML<br>
         [Oct 2018] <a href = 'https://github.com/Microsoft/EdgeML'> GesturePod implementation and simulation OSS</a><br>
         [Mar 2018] <a href = 'https://drive.google.com/file/d/1vQV4ENhC_lkg9FC7BLv6aRDP3e_VgWnX/view?usp=sharing'> Presented my work to Bill Gates!</a><br>
         [Dec 2017] Our work covered by <a href='http://epaper.financialexpress.com/1462735/Indian-Express/December-11,-2017#page/8/1'>Financial Express</a> and 
-        <a href = 'https://blogs.microsoft.com/ai/ais-big-leap-tiny-devices-opens-world-possibilities/'>Microsoft  blog</a>. 
+        <a href = 'https://blogs.microsoft.com/ai/ais-big-leap-tiny-devices-opens-world-possibilities/'>Microsoft AI blog</a>. 
 
 
         </p>
         <hr>
 
-<!--     <h3>My Current Projects:</h3>
+    <h3>My Current Projects:</h3>
         <p>
             <ul>
                 <li><a href ='https://github.com/Microsoft/EdgeML'>Edge ML:</a>
-                 Machine learning predictions on edge devices (microcontrollers) are critical in many scenarios where we are constrained by latency and bandwidth or value data privacy and battery life. e.g., Internet of Things (IoT) and wearable electronics. In this project, we are designing new ML algorithms that generate tiny models that can enable prediction on edge devices with accuracy comparable to cloud solutions. These algorithms can be deployed on microcontrollers that use milliwatts of power and have just a few kB of RAM. 
+                 Machine learning predictions on edge devices (microcontrollers) are critical in many scenarios where we are constrained by latency and bandwidth or value data privacy and battery life. e.g., Internet of Things (IoT) and wearable electronics. In this project, we are designing new ML algorithms that generate tiny models that can enable prediction on edge devices with accuracy comparable to cloud solutions. <!-- These algorithms can be deployed on microcontrollers that use milliwatts of power and have just a few kB of RAM. -->
                 </li>
             </ul>
         </p>
@@ -62,10 +60,10 @@ title: Shishir Patil
                     In this project, we propose novel techniques to build a scalable framework to address the communication component - transmission of data from the sensors to a centralized server.
                 </li>
                 <br>
-                <i>My past projects can be found in my <a href='https://drive.google.com/file/d/1Fdmc4aNIdXnHyt9MQlyiXhmM2GKku8Ya/view?usp=sharing'>CV</a></i>
+                <!-- <i>My past projects can be found in my <a href='https://drive.google.com/file/d/1Fdmc4aNIdXnHyt9MQlyiXhmM2GKku8Ya/view?usp=sharing'>CV</a></i> -->
             </ul> 
 
-        </p><hr> -->
+        </p><hr>
 
         <p> Prior to this, I obtained a B.E. in Electronics and Communication Engineering from R.V.
             College of Engineering in 2017 (awarded University Gold Medal). During my undergraduate 
