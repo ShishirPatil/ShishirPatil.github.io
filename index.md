@@ -32,7 +32,7 @@ title: Shishir Patil
         <p style="font-size:1.5em;">News:<br>
         <div id="news" style="height:140px;overflow-y:scroll;">
             <ul style="list-style-type:none;">
-            [Jul 2019] <a href = 'http://uist.acm.org/uist2019/program/'> GesturePod accepted to UIST-2019!</a><br>
+            [Jul 2019] <a href = 'http://uist.acm.org/uist2019/program/'> GesturePod accepted to UIST 2019!</a><br>
             [Dec 2018] <a href = 'https://www.zdnet.com/video/microsoft-researchers-add-smarts-to-everyday-objects/?fbclid=IwAR3DCey1X675mQ-uk7mu1Wl8aFXM4AQGNL4SygercVQY6PsmDkFvO3P9BE8'>ZD Net covers our work at (NeurIPS) NIPS 2018</a>
         <br>
             [Nov 2018] <a href = 'https://nips.cc/Expo/Conferences/2018/Schedule?demo_id=3'> We will be presenting our work at (NeurIPS) NIPS 2018!</a><br>
