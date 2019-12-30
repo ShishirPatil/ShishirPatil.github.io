@@ -27,7 +27,7 @@ title: Shishir Patil
 	<!-- <h2>Hi there, I'm Shishir Patil!</h2> -->
 	<p style="font-size:1.3em;">
         I am a first year Ph.D. student at UC Berkeley. I am broadly interested in systems for machine learning, and machine learning for the edge.<br>
-        Prior to Berkeley, I spent two wonderful years as a <i>Research Fellow</i> at <a href ='https://www.microsoft.com/en-us/research/lab/microsoft-research-india/'>Microsoft Research India</a>, where I was advised by <a href='http://www.prateekjain.org/'>Prateek Jain</a> from the <em>Machine Learning and Optimization Group,</em> <a href='http://harsha-simhadri.org/'>Harsha Vardhan Simhadri</a> and <a href='https://www.microsoft.com/en-us/research/people/visesha/'>Vivek Seshadri</a> from the <em>Systems Group</em>.       
+        Previously, I spent two wonderful years as a <i>Research Fellow</i> at <a href ='https://www.microsoft.com/en-us/research/lab/microsoft-research-india/'>Microsoft Research India</a>, where I was advised by <a href='http://www.prateekjain.org/'>Prateek Jain</a> from the <em>Machine Learning and Optimization Group,</em> <a href='http://harsha-simhadri.org/'>Harsha Vardhan Simhadri</a> and <a href='https://www.microsoft.com/en-us/research/people/visesha/'>Vivek Seshadri</a> from the <em>Systems Group</em>.       
         <!-- <a href="/about">Read more about my life...</a> -->
     </p>
 
@@ -52,29 +52,31 @@ title: Shishir Patil
 
     <hr>
 
-    <h3>My Current Projects:</h3>
-    <p>
-        <ul>
-        <li><a href ='https://github.com/Microsoft/EdgeML'>Edge ML:</a>
+    <!-- <h3>My Current Projects:</h3> -->
+    <!-- <p> -->
+        <!-- <ul> -->
+        <!-- <li> -->
+        <!-- <a href ='https://github.com/Microsoft/EdgeML'>Edge ML:</a>
          Machine learning predictions on edge devices (microcontrollers) are critical in many scenarios where we are constrained by latency and bandwidth or value data privacy and battery life. e.g., Internet of Things (IoT) and wearable electronics. In this project, we are designing new ML algorithms that generate tiny models that can enable prediction on edge devices with accuracy comparable to cloud solutions. <!-- These algorithms can be deployed on microcontrollers that use milliwatts of power and have just a few kB of RAM. -->
-        </li>
-        </ul>
-    </p>
+        <!-- </li> -->
+        <!-- </ul> -->
+    <!-- </p> -->
 
-    <p>
-        <ul>
-        <li>PulsCity: Deploying IoT for urban cities involves 3 challenges:
-            (a) Deploying sensor systems that capture the physical phenomenon (b)
-            Transmission of data from the sensors to cloud/server and (c)
-            Getting meaningful insights from the data.
-            In this project, we propose novel techniques to build a scalable framework to address the communication component - transmission of data from the sensors to a centralized server.
-        </li><br>
+    <!-- <p> -->
+        <!-- <ul> -->
+        <!-- <li> -->
+        <!-- PulsCity: Deploying IoT for urban cities involves 3 challenges:
+        (a) Deploying sensor systems that capture the physical phenomenon (b)
+        Transmission of data from the sensors to cloud/server and (c)
+        Getting meaningful insights from the data.
+        In this project, we propose novel techniques to build a scalable framework to address the communication component - transmission of data from the sensors to a centralized server. -->
+        <!-- </li><br> -->
         <!-- <i>My past projects can be found in my <a href='https://drive.google.com/file/d/1Fdmc4aNIdXnHyt9MQlyiXhmM2GKku8Ya/view?usp=sharing'>CV</a></i> -->
-        </ul> 
-    </p>
+        <!-- </ul>  -->
+    <!-- </p> -->
 
-    <hr>
-    
+    <!-- <hr> -->
+
     <p> 
         Prior to this, I obtained a B.E. in Electronics and Communication Engineering from R.V.
         College of Engineering in 2017 (awarded University Gold Medal). During my undergraduate 
