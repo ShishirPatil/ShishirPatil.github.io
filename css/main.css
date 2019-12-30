@@ -1,10 +1,12 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,700");
+
 body {
     margin: 60px auto;
     width: 70%;
 }
 nav ul{
     font-size: 1.2em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Open Sans', 'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -12,7 +14,7 @@ nav ul{
 
 footer ul {
     font-size: 1.5em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Open Sans', 'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -25,13 +27,14 @@ nav ul li, footer ul li {
 
 a {
     text-decoration: none;
-    color: #679;
-    font-family: 'Linux Libertine', 'Helvetica', 'Arial', 'Sans-Serif';
+    /*color: #679;*/
+    color: #4A69BB;
+    font-family: 'Open Sans', 'Linux Libertine', 'Helvetica', 'Arial', 'Sans-Serif';
 }
 
 a:hover {
     text-decoration: underline;
-    font-family: 'Linux Libertine', 'Helvetica', 'Arial', 'Sans-Serif';
+    font-family: 'Open Sans', 'Linux Libertine', 'Helvetica', 'Arial', 'Sans-Serif';
 }
 
 
@@ -46,42 +49,66 @@ a-pub:hover {
 
 co-author-name {
     text-decoration: none;
-    color: #736A6A;
-
+    /*color: #736A6A;*/
+    color: #777777;
 }
+
+author-name {
+    text-decoration: none;
+    color: #333333;
+    /*font-weight: 700;*/
+}
+
 
 h1 {
     font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-weight: 700;
+    font-family:'Open Sans', 'Helvetica', 'Arial', 'Sans-Serif';
+    color: #444444;
 }
+
 h2 {
     font-size: 1.5em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-weight: 700;
+    font-family:'Open Sans', 'Helvetica', 'Arial', 'Sans-Serif';
+    color: #444444;
 }
+
 h3 {
     font-size: 1.3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-weight: 700;
+    font-family:'Open Sans', 'Helvetica', 'Arial', 'Sans-Serif';
+    color: #444444;
+}
+
+h4 {
+    font-size: 1.2em;
+    font-weight: 700;
+    font-family:'Open Sans', 'Helvetica', 'Arial', 'Sans-Serif';
+    color: #444444;
 }
 
 h4-pub {
     font-size: 1.5em;
-    font-family: 'Linux Libertine', 'Helvetica', 'Arial', 'Sans-Serif';
+    font-family: 'Open Sans', 'Linux Libertine', 'Helvetica', 'Arial', 'Sans-Serif';
+    color: #444444;
 }
 
 p-pub {
-    font-size: 1.2em;
-    font-family: 'Linux Libertine', 'Helvetica', 'Arial', 'Sans-Serif';
-    line-height: 1.2em;
-    color: #333;
+    font-size: 1em;
+    font-family: 'Open Sans', 'Linux Libertine', 'Helvetica', 'Arial', 'Sans-Serif';
+    line-height: 1.4em;
+    color: #555555;
 }
 
 p {
     font-size: 1.2em;
-    font-family: 'Linux Libertine', 'Helvetica', 'Arial', 'Sans-Serif';
-    line-height: 1.2em;
-    color: #333;
+    font-family:  'Open Sans', 'Helvetica', 'Arial', 'Sans-Serif';
+    /*line-height: 1.3em;*/
+    color: #555555;
     text-align: justify;
 }
+
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
@@ -95,25 +122,28 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
 ul { 
     margin: 5px auto 5px; 
     font-size: 1.2em;
+    font-family: 'Open Sans', 'Linux Libertine', 'Helvetica', 'Arial', 'Sans-Serif';
 }
 
 ul li {
     list-style: disc;
     text-align: justify;
-    font-family: 'Linux Libertine', 'Helvetica', 'Arial', 'Sans-Serif';
+    font-family: 'Open Sans', 'Linux Libertine', 'Helvetica', 'Arial', 'Sans-Serif';
 }
 
 ol { 
     margin: 5px auto 5px; 
-    font-size: 1em;
+    font-size: 1.2em;
+    font-family: 'Open Sans', 'Linux Libertine', 'Helvetica', 'Arial', 'Sans-Serif';
 }
 
 ol li {
     list-style: I;
     text-align: justify;
-    font-family: 'Linux Libertine', 'Helvetica', 'Arial', 'Sans-Serif';
+    font-family: 'Open Sans', 'Linux Libertine', 'Helvetica', 'Arial', 'Sans-Serif';
 }
 

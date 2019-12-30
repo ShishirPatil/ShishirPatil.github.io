@@ -25,8 +25,8 @@ title: Shishir Patil
 
 <div class="blurb">
 	<!-- <h2>Hi there, I'm Shishir Patil!</h2> -->
-	<p style="font-size:1.3em;">
-        I am a first year Ph.D. student at UC Berkeley. I am broadly interested in systems for machine learning, and machine learning for the edge.<br>
+	<p>
+        I am a first year Ph.D. student at UC Berkeley. I am broadly interested in systems for machine learning, and machine learning for the edge.
         Previously, I spent two wonderful years as a <i>Research Fellow</i> at <a href ='https://www.microsoft.com/en-us/research/lab/microsoft-research-india/'>Microsoft Research India</a>, where I was advised by <a href='http://www.prateekjain.org/'>Prateek Jain</a> from the <em>Machine Learning and Optimization Group,</em> <a href='http://harsha-simhadri.org/'>Harsha Vardhan Simhadri</a> and <a href='https://www.microsoft.com/en-us/research/people/visesha/'>Vivek Seshadri</a> from the <em>Systems Group</em>.       
         <!-- <a href="/about">Read more about my life...</a> -->
     </p>
@@ -35,9 +35,10 @@ title: Shishir Patil
     <div id="news" style="height:140px;overflow-y:scroll;">
         <ul style="list-style-type:none;">
         <img style="display: inline;" src="pin.png" alt="logo" height="20px" width="20px" /> 
-        [Mar 2018] <a href = 'https://drive.google.com/file/d/1vQV4ENhC_lkg9FC7BLv6aRDP3e_VgWnX/view?usp=sharing'> Presented my work to Bill Gates!</a><br>
+        [Mar 2018] <a href = 'https://drive.google.com/file/d/1vQV4ENhC_lkg9FC7BLv6aRDP3e_VgWnX/view?usp=sharing'> Presented our work to Bill Gates!</a><br>
         
-        [Nov 2019] <a href = 'https://twitter.com/BerkeleyISchool/status/1191542693446455298'> We win First Place at the PayPal Hack 2019</a><br>
+        [Nov 2019] <a href = 'https://twitter.com/BerkeleyISchool/status/1191542693446455298'> We win the PayPal Hack 2019</a><br>
+        <!-- [Aug 2019] Moved to UC Berkeley for my Ph.D. <br> -->
         [Jul 2019] <a href = 'http://uist.acm.org/uist2019/program/'> GesturePod accepted to UIST 2019!</a><br>
         [Dec 2018] <a href = 'https://www.zdnet.com/video/microsoft-researchers-add-smarts-to-everyday-objects/?fbclid=IwAR3DCey1X675mQ-uk7mu1Wl8aFXM4AQGNL4SygercVQY6PsmDkFvO3P9BE8'>ZD Net covers our work at (NeurIPS) NIPS 2018</a><br>
         [Nov 2018] <a href = 'https://nips.cc/Expo/Conferences/2018/Schedule?demo_id=3'> We will be presenting our work at (NeurIPS) NIPS 2018!</a><br>
