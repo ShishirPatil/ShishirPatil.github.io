@@ -37,6 +37,7 @@ title: Shishir Patil
         <img style="display: inline;" src="pin.png" alt="logo" height="20px" width="20px" /> 
         [Mar 2018] <a href = 'https://drive.google.com/file/d/1vQV4ENhC_lkg9FC7BLv6aRDP3e_VgWnX/view?usp=sharing'> Presented our work to Bill Gates!</a><br>
         
+        [Jan 2020] <a href = 'https://simons.berkeley.edu/workshops/schedule/10559'> Attending The Quantum Wave in Computing Boot Camp at Simons Institute</a><br>
         [Nov 2019] <a href = 'https://twitter.com/BerkeleyISchool/status/1191542693446455298'> We win the PayPal Hack 2019</a><br>
         <!-- [Aug 2019] Moved to UC Berkeley for my Ph.D. <br> -->
         [Jul 2019] <a href = 'http://uist.acm.org/uist2019/program/'> GesturePod accepted to UIST 2019!</a><br>
