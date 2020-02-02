@@ -19,7 +19,7 @@ title: Shishir Patil
 	}
 </style>
 <div style="display: flex; justify-content: left;">
- 	<img src="./img.jpg" alt="Image of Shishir in a playground" class="mobile" />
+ 	<img src="./img.jpg" alt="Shishir's photo" class="mobile" />
 </div>
 
 
