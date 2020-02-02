@@ -38,7 +38,9 @@ title: Shishir Patil
         [Mar 2018] <a href = 'https://drive.google.com/file/d/1vQV4ENhC_lkg9FC7BLv6aRDP3e_VgWnX/view?usp=sharing'> Presented our work to Bill Gates!</a><br>
         
         [Jan 2020] <a href = 'https://simons.berkeley.edu/workshops/schedule/10559'> Attending The Quantum Wave in Computing Boot Camp at Simons Institute</a><br>
-        [Nov 2019] <a href = 'https://twitter.com/BerkeleyISchool/status/1191542693446455298'> We win the PayPal Hack 2019</a><br>
+        [Jan 2020] Presented poster at RISE Retreat [Monterey, CA]<br>
+        [Jan 2020] Gave a talk at VMare Retreat [Palo Alto, CA]<br>
+        [Nov 2019] <a href = 'https://twitter.com/BerkeleyISchool/status/1191542693446455298'> We <i>"The Bayesian Conspiracy"</i> win  PayPal Hack 2019</a><br>
         <!-- [Aug 2019] Moved to UC Berkeley for my Ph.D. <br> -->
         [Jul 2019] <a href = 'http://uist.acm.org/uist2019/program/'> GesturePod accepted to UIST 2019!</a><br>
         [Dec 2018] <a href = 'https://www.zdnet.com/video/microsoft-researchers-add-smarts-to-everyday-objects/?fbclid=IwAR3DCey1X675mQ-uk7mu1Wl8aFXM4AQGNL4SygercVQY6PsmDkFvO3P9BE8'>ZD Net covers our work at (NeurIPS) NIPS 2018</a><br>
