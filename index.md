@@ -36,7 +36,8 @@ title: Shishir Patil
         <ul style="list-style-type:none;">
         <img style="display: inline;" src="pin.png" alt="logo" height="20px" width="20px" /> 
         [Mar 2018] <a href = 'https://drive.google.com/file/d/1vQV4ENhC_lkg9FC7BLv6aRDP3e_VgWnX/view?usp=sharing'> Presented our work to Bill Gates!</a><br>
-        
+
+        [Feb 2020] <a href = 'http://terminal.c1games.com/competitions/105'> We Win (Cal #2) at Citadel Terminal Live: Cal vs Stanford 2020 </a><br>
         [Jan 2020] <a href = 'https://simons.berkeley.edu/workshops/schedule/10559'> Attending The Quantum Wave in Computing Boot Camp at Simons Institute</a><br>
         [Jan 2020] Presented poster at RISE Retreat [Monterey, CA]<br>
         [Jan 2020] Gave a talk at VMare Retreat [Palo Alto, CA]<br>
