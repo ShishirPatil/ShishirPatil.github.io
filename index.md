@@ -26,7 +26,7 @@ title: Shishir Patil
 <div class="blurb">
 	<!-- <h2>Hi there, I'm Shishir Patil!</h2> -->
 	<p>
-        I am a first year Ph.D. student at UC Berkeley. I am broadly interested in systems for machine learning, and machine learning for the edge.
+        I am a first year Ph.D. student in Computer Science at UC Berkeley. I am broadly interested in systems for machine learning, and machine learning for the edge.
         Previously, I spent two wonderful years as a <i>Research Fellow</i> at <a href ='https://www.microsoft.com/en-us/research/lab/microsoft-research-india/'>Microsoft Research India</a>, where I was advised by <a href='http://www.prateekjain.org/'>Prateek Jain</a> from the <em>Machine Learning and Optimization Group,</em> <a href='http://harsha-simhadri.org/'>Harsha Vardhan Simhadri</a> and <a href='https://www.microsoft.com/en-us/research/people/visesha/'>Vivek Seshadri</a> from the <em>Systems Group</em>.       
         <!-- <a href="/about">Read more about my life...</a> -->
     </p>
@@ -37,7 +37,7 @@ title: Shishir Patil
         <img style="display: inline;" src="pin.png" alt="logo" height="20px" width="20px" /> 
         [Mar 2018] <a href = 'https://drive.google.com/file/d/1vQV4ENhC_lkg9FC7BLv6aRDP3e_VgWnX/view?usp=sharing'> Presented our work to Bill Gates!</a><br>
 
-        [Feb 2020] <a href = 'http://terminal.c1games.com/competitions/105'> We Win (Cal #2) at Citadel Terminal Live: Cal vs Stanford 2020 </a><br>
+        [Feb 2020] <a href = 'http://terminal.c1games.com/competitions/105'> We win (Cal #2) at Citadel Terminal Live: Cal vs Stanford 2020 </a><br>
         [Jan 2020] <a href = 'https://simons.berkeley.edu/workshops/schedule/10559'> Attending The Quantum Wave in Computing Boot Camp at Simons Institute</a><br>
         [Jan 2020] Presented poster at RISE Retreat [Monterey, CA]<br>
         [Jan 2020] Gave a talk at VMare Retreat [Palo Alto, CA]<br>
