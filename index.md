@@ -39,12 +39,12 @@ title: Shishir Patil
         <img style="display: inline;" src="pin.png" alt="logo" height="20px" width="20px" /> 
         [Mar 2018] <a href = 'https://drive.google.com/file/d/1vQV4ENhC_lkg9FC7BLv6aRDP3e_VgWnX/view?usp=sharing'> Presented our work to Bill Gates!</a><br>
 
-        [May 2020] We win <a href='https://responsible-ai.devpost.com/'>TensorFlow 2.2 Challenge</a>, and <a href='https://la-hacks-2020.devpost.com/'>LA Hacks</a><br>
-        [Feb 2020] <a href = 'http://terminal.c1games.com/competitions/105'> Placed second at Citadel Terminal Live: Cal vs Stanford 2020 </a><br>
+        <!-- [May 2020] We win <a href='https://responsible-ai.devpost.com/'>TensorFlow 2.2 Challenge</a>, and <a href='https://la-hacks-2020.devpost.com/'>LA Hacks</a><br> -->
+        <!-- [Feb 2020] <a href = 'http://terminal.c1games.com/competitions/105'> Placed second at Citadel Terminal Live: Cal vs Stanford 2020 </a><br> -->
         [Jan 2020] <a href = 'https://simons.berkeley.edu/workshops/schedule/10559'> Attending The Quantum Wave in Computing Boot Camp at Simons Institute</a><br>
         [Jan 2020] Presented poster at RISE Retreat [Monterey, CA]<br>
         [Jan 2020] Gave a talk at VMare Retreat [Palo Alto, CA]<br>
-        [Nov 2019] <a href = 'https://twitter.com/BerkeleyISchool/status/1191542693446455298'> We "The Bayesian Conspiracy" win  PayPal Hack 2019</a><br>
+        <!-- [Nov 2019] <a href = 'https://twitter.com/BerkeleyISchool/status/1191542693446455298'> We "The Bayesian Conspiracy" win  PayPal Hack 2019</a><br> -->
         <!-- [Aug 2019] Moved to UC Berkeley for my Ph.D. <br> -->
         [Jul 2019] <a href = 'http://uist.acm.org/uist2019/program/'> GesturePod accepted to UIST 2019!</a><br>
         [Dec 2018] <a href = 'https://www.zdnet.com/video/microsoft-researchers-add-smarts-to-everyday-objects/?fbclid=IwAR3DCey1X675mQ-uk7mu1Wl8aFXM4AQGNL4SygercVQY6PsmDkFvO3P9BE8'>ZD Net covers our work at (NeurIPS) NIPS 2018</a><br>
@@ -55,7 +55,7 @@ title: Shishir Patil
         [Mar 2018] <a href = 'https://drive.google.com/file/d/1vQV4ENhC_lkg9FC7BLv6aRDP3e_VgWnX/view?usp=sharing'> Presented my work to Bill Gates!</a><br> -->
         [Dec 2017] Our work covered by <a href='http://epaper.financialexpress.com/1462735/Indian-Express/December-11,-2017#page/8/1'>Financial Express</a> and <a href = 'https://blogs.microsoft.com/ai/ais-big-leap-tiny-devices-opens-world-possibilities/'>Microsoft AI blog</a>. 
         </ul>
-    </div>
+    </div><!-- news -->
     </p>
 
     <hr>
@@ -84,6 +84,17 @@ title: Shishir Patil
     <!-- </p> -->
 
     <!-- <hr> -->
+
+    <p>
+    	I also enjoy participating in Hackathons occasionally.<br>
+    	[2020] <a href='https://responsible-ai.devpost.com/'>TensorFlow 2.2 Challenge</a> <i class="fas fa-trophy"></i>,
+    	       <a href='https://la-hacks-2020.devpost.com/'>LA Hacks</a> <i class="fas fa-trophy"></i>,
+    	       <!-- Cal Hacks,  -->
+    	       <a href = 'http://terminal.c1games.com/competitions/105'> Citadel Terminal Live</a> <i class="fas fa-trophy"></i><br>
+    	[2019] <a href = 'https://twitter.com/BerkeleyISchool/status/1191542693446455298'> PayPal Hack</a> <i class="fas fa-trophy"></i><br>
+    <p>
+    <hr>
+
 
     <p> 
         Prior to this, I obtained a B.E. in Electronics and Communication Engineering from R.V.
