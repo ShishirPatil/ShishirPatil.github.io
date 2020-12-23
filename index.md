@@ -33,12 +33,13 @@ title: Shishir Patil
         <!-- <a href="/about">Read more about my life...</a> -->
     </p>
 
-    <p style="font-size:1.5em;">News:<br>
+    <p style="font-size:1.5em;">News:<br></p>
     <div id="news" style="height:140px;overflow-y:scroll;">
         <ul style="list-style-type:none;">
         <img style="display: inline;" src="pin.png" alt="logo" height="20px" width="20px" /> 
         [Mar 2018] <a href = 'https://drive.google.com/file/d/1vQV4ENhC_lkg9FC7BLv6aRDP3e_VgWnX/view?usp=sharing'> Presented our work to Bill Gates!</a><br>
 
+        [Dec 2020] <a href='https://github.com/vidhiJain/SpatialEmbeddings/blob/main/pubs/ORLR.pdf'> Embeddings for Indoor Navigation</a> presented at NeurIPS'20 ORLR Workshop <br>
         <!-- [May 2020] We win <a href='https://responsible-ai.devpost.com/'>TensorFlow 2.2 Challenge</a>, and <a href='https://la-hacks-2020.devpost.com/'>LA Hacks</a><br> -->
         <!-- [Feb 2020] <a href = 'http://terminal.c1games.com/competitions/105'> Placed second at Citadel Terminal Live: Cal vs Stanford 2020 </a><br> -->
         [Jan 2020] <a href = 'https://simons.berkeley.edu/workshops/schedule/10559'> Attending The Quantum Wave in Computing Boot Camp at Simons Institute</a><br>
@@ -56,7 +57,7 @@ title: Shishir Patil
         [Dec 2017] Our work covered by <a href='http://epaper.financialexpress.com/1462735/Indian-Express/December-11,-2017#page/8/1'>Financial Express</a> and <a href = 'https://blogs.microsoft.com/ai/ais-big-leap-tiny-devices-opens-world-possibilities/'>Microsoft AI blog</a>. 
         </ul>
     </div><!-- news -->
-    </p>
+    
 
     <hr>
 
@@ -86,13 +87,13 @@ title: Shishir Patil
     <!-- <hr> -->
 
     <p>
-    	I also enjoy participating in Hackathons occasionally.<br>
+    	I also enjoy participating in Hackathons occasionally:<br>
     	[2020] <a href='https://responsible-ai.devpost.com/'>TensorFlow 2.2 Challenge</a> <i class="fas fa-trophy"></i>,
     	       <a href='https://la-hacks-2020.devpost.com/'>LA Hacks</a> <i class="fas fa-trophy"></i>,
     	       <!-- Cal Hacks,  -->
     	       <a href = 'http://terminal.c1games.com/competitions/105'> Citadel Terminal Live</a> <i class="fas fa-trophy"></i><br>
     	[2019] <a href = 'https://twitter.com/BerkeleyISchool/status/1191542693446455298'> PayPal Hack</a> <i class="fas fa-trophy"></i><br>
-    <p>
+    </p>
     <hr>
 
 
@@ -105,7 +106,7 @@ title: Shishir Patil
         summer of 2015.
     </p>
 
-</div><!-- /.blurb -->
+</div> <!-- /.blurb-->
 
 
 
