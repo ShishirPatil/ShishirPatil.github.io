@@ -26,7 +26,7 @@ title: Shishir Patil
 <div class="blurb">
 	<!-- <h2>Hi there, I'm Shishir Patil!</h2> -->
 	<p>
-        I am a first year Ph.D. student in Computer Science at UC Berkeley advised by <a href='https://people.eecs.berkeley.edu/~jegonzal/'>Prof. Joseph Gonzalez</a> and <a href='https://people.eecs.berkeley.edu/~prabal/'>Prof. Prabal Dutta</a>. I am broadly interested in systems for machine learning, and machine learning for the edge. I am affiliated with the <a href ='https://rise.cs.berkeley.edu/'>RISE Lab</a>, <a href='https://lab11.eecs.berkeley.edu/'>Lab11</a>, and <a href='https://bair.berkeley.edu/'>Berkeley AI Research (BAIR)</a>. 
+        I am a third year Ph.D. student in Computer Science at UC Berkeley advised by <a href='https://people.eecs.berkeley.edu/~jegonzal/'>Prof. Joseph Gonzalez</a> and <a href='https://people.eecs.berkeley.edu/~prabal/'>Prof. Prabal Dutta</a>. I am broadly interested in systems for machine learning, and machine learning for the edge. I am affiliated with the <a href ='https://rise.cs.berkeley.edu/'>RISE Lab</a>, <a href='https://lab11.eecs.berkeley.edu/'>Lab11</a>, and <a href='https://bair.berkeley.edu/'>Berkeley AI Research (BAIR)</a>. 
     </p>
     <p>
         Previously, I spent two wonderful years as a <i>Research Fellow</i> at <a href ='https://www.microsoft.com/en-us/research/lab/microsoft-research-india/'>Microsoft Research India</a>, where I was advised by <a href='http://www.prateekjain.org/'>Prateek Jain</a> from the <em>Machine Learning and Optimization Group,</em> <a href='http://harsha-simhadri.org/'>Harsha Vardhan Simhadri</a> and <a href='https://www.microsoft.com/en-us/research/people/visesha/'>Vivek Seshadri</a> from the <em>Systems Group</em>.       
