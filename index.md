@@ -26,10 +26,10 @@ title: Shishir Patil
 <div class="blurb">
 	<!-- <h2>Hi there, I'm Shishir Patil!</h2> -->
 	<p>
-        I am a third year Ph.D. student in Computer Science at UC Berkeley advised by <a href='https://people.eecs.berkeley.edu/~jegonzal/'>Prof. Joseph Gonzalez</a> and <a href='https://people.eecs.berkeley.edu/~prabal/'>Prof. Prabal Dutta</a>. I am broadly interested in systems for machine learning, and machine learning for the edge. I am affiliated with the <a href ='https://rise.cs.berkeley.edu/'>RISE Lab</a>, <a href='https://lab11.eecs.berkeley.edu/'>Lab11</a>, and <a href='https://bair.berkeley.edu/'>Berkeley AI Research (BAIR)</a>. 
+        I am a Ph.D. student in Computer Science at UC Berkeley advised by <a href='https://people.eecs.berkeley.edu/~jegonzal/'>Prof. Joseph Gonzalez</a> and <a href='https://people.eecs.berkeley.edu/~prabal/'>Prof. Prabal Dutta</a>. I am broadly interested in systems for machine learning, machine learning for the edge, and Sky computing. I am affiliated with the <a href ='https://rise.cs.berkeley.edu/'>RISE Lab</a>, <a href='https://lab11.eecs.berkeley.edu/'>Lab11</a>, <a href ='https://sky.cs.berkeley.edu/'>Sky</a>, and <a href='https://bair.berkeley.edu/'>Berkeley AI Research (BAIR)</a>.
     </p>
     <p>
-        Previously, I spent two wonderful years as a <i>Research Fellow</i> at <a href ='https://www.microsoft.com/en-us/research/lab/microsoft-research-india/'>Microsoft Research India</a>, where I was advised by <a href='http://www.prateekjain.org/'>Prateek Jain</a> from the <em>Machine Learning and Optimization Group,</em> <a href='http://harsha-simhadri.org/'>Harsha Vardhan Simhadri</a> and <a href='https://www.microsoft.com/en-us/research/people/visesha/'>Vivek Seshadri</a> from the <em>Systems Group</em>.       
+        I spent the Summer of 2021 with the Core ML team at <a href = 'https://www.amazon.science/research-areas/machine-learning'>Amazon Science</a>. Previously, I spent two wonderful years as a <i>Research Fellow</i> at <a href ='https://www.microsoft.com/en-us/research/lab/microsoft-research-india/'>Microsoft Research India</a>, where I was advised by <a href='http://www.prateekjain.org/'>Prateek Jain</a> from the Machine Learning and Optimization Group, <a href='http://harsha-simhadri.org/'>Harsha Vardhan Simhadri</a> and <a href='https://www.microsoft.com/en-us/research/people/visesha/'>Vivek Seshadri</a> from the Systems Group.
         <!-- <a href="/about">Read more about my life...</a> -->
     </p>
 
@@ -39,6 +39,8 @@ title: Shishir Patil
         <img style="display: inline;" src="pin.png" alt="logo" height="20px" width="20px" /> 
         [Mar 2018] <a href = 'https://drive.google.com/file/d/1vQV4ENhC_lkg9FC7BLv6aRDP3e_VgWnX/view?usp=sharing'> Presented our work to Bill Gates!</a><br>
 
+        [Apr 2022] <a href='https://web.eecs.umich.edu/~prabal/pubs/papers/despres22sidewalk.pdf'> Where the Sidewalk Ends: Privacy of Opportunistic Backhaul</a> presented at EuroSec'22 <br>
+        [May 2021] I will be interning with the Core-ML team at Amazon Science this Summer <br>
         [Dec 2020] <a href='https://github.com/vidhiJain/SpatialEmbeddings/blob/main/pubs/ORLR.pdf'> Embeddings for Indoor Navigation</a> presented at NeurIPS'20 ORLR Workshop <br>
         <!-- [May 2020] We win <a href='https://responsible-ai.devpost.com/'>TensorFlow 2.2 Challenge</a>, and <a href='https://la-hacks-2020.devpost.com/'>LA Hacks</a><br> -->
         <!-- [Feb 2020] <a href = 'http://terminal.c1games.com/competitions/105'> Placed second at Citadel Terminal Live: Cal vs Stanford 2020 </a><br> -->
