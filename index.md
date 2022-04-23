@@ -18,23 +18,23 @@ title: Shishir Patil
 		}
 	}
 </style>
-<div style="display: flex; justify-content: left;">
- 	<img src="./img.jpg" alt="Shishir's photo" class="mobile" />
+
+<div style="display: flex; align-content: space-between; justify-content: left; margin-top: 20px; ">
+    <div style="width: 100%;">
+        <img src="./img.jpg" alt="Shishir's photo" width="100%"/>
+    </div>
+    <div style="margin-left:45px">
+        <p> I am a Ph.D. student in Computer Science at UC Berkeley advised by <a href='https://people.eecs.berkeley.edu/~jegonzal/'>Prof. Joseph Gonzalez</a> and <a href='https://people.eecs.berkeley.edu/~prabal/'>Prof. Prabal Dutta</a>. I am broadly interested in systems for machine learning, machine learning for the edge, and Sky computing. I am affiliated with the <a href ='https://rise.cs.berkeley.edu/'>RISE Lab</a>, <a href='https://lab11.eecs.berkeley.edu/'>Lab11</a>, <a href ='https://sky.cs.berkeley.edu/'>Sky</a>, and <a href='https://bair.berkeley.edu/'>Berkeley AI Research (BAIR)</a>.</p>
+        <p>In the summer of 2021 I was a Research Intern with the Core ML team at <a href = 'https://www.amazon.science/research-areas/machine-learning'>Amazon Science</a>. Previously, I spent two wonderful years as a <i>Research Fellow</i> at <a href ='https://www.microsoft.com/en-us/research/lab/microsoft-research-india/'>Microsoft Research India</a>, where I was advised by <a href='http://www.prateekjain.org/'>Prateek Jain</a> from the Machine Learning and Optimization Group, <a href='http://harsha-simhadri.org/'>Harsha Vardhan Simhadri</a> and <a href='https://www.microsoft.com/en-us/research/people/visesha/'>Vivek Seshadri</a> from the Systems Group.</p>
+    </div>
 </div>
 
 
-<div class="blurb">
-	<!-- <h2>Hi there, I'm Shishir Patil!</h2> -->
-	<p>
-        I am a Ph.D. student in Computer Science at UC Berkeley advised by <a href='https://people.eecs.berkeley.edu/~jegonzal/'>Prof. Joseph Gonzalez</a> and <a href='https://people.eecs.berkeley.edu/~prabal/'>Prof. Prabal Dutta</a>. I am broadly interested in systems for machine learning, machine learning for the edge, and Sky computing. I am affiliated with the <a href ='https://rise.cs.berkeley.edu/'>RISE Lab</a>, <a href='https://lab11.eecs.berkeley.edu/'>Lab11</a>, <a href ='https://sky.cs.berkeley.edu/'>Sky</a>, and <a href='https://bair.berkeley.edu/'>Berkeley AI Research (BAIR)</a>.
-    </p>
-    <p>
-        I spent the Summer of 2021 with the Core ML team at <a href = 'https://www.amazon.science/research-areas/machine-learning'>Amazon Science</a>. Previously, I spent two wonderful years as a <i>Research Fellow</i> at <a href ='https://www.microsoft.com/en-us/research/lab/microsoft-research-india/'>Microsoft Research India</a>, where I was advised by <a href='http://www.prateekjain.org/'>Prateek Jain</a> from the Machine Learning and Optimization Group, <a href='http://harsha-simhadri.org/'>Harsha Vardhan Simhadri</a> and <a href='https://www.microsoft.com/en-us/research/people/visesha/'>Vivek Seshadri</a> from the Systems Group.
-        <!-- <a href="/about">Read more about my life...</a> -->
-    </p>
 
+<div class="blurb">
+    <hr>
     <p style="font-size:1.5em;">News:<br></p>
-    <div id="news" style="height:140px;overflow-y:scroll;">
+    <div id="news" style="height:170px;overflow-y:scroll;">
         <ul style="list-style-type:none;">
         <img style="display: inline;" src="pin.png" alt="logo" height="20px" width="20px" /> 
         [Mar 2018] <a href = 'https://drive.google.com/file/d/1vQV4ENhC_lkg9FC7BLv6aRDP3e_VgWnX/view?usp=sharing'> Presented our work to Bill Gates!</a><br>
