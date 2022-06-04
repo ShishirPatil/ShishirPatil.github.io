@@ -39,6 +39,7 @@ title: Shishir Patil
         <img style="display: inline;" src="pin.png" alt="logo" height="20px" width="20px" /> 
         [Mar 2018] <a href = 'https://drive.google.com/file/d/1vQV4ENhC_lkg9FC7BLv6aRDP3e_VgWnX/view?usp=sharing'> Presented our work to Bill Gates!</a><br>
 
+        [May 2022] POET accepted to ICML '22! Camera ready coming soon.. <br>
         [Apr 2022] <a href='https://web.eecs.umich.edu/~prabal/pubs/papers/despres22sidewalk.pdf'> Where the Sidewalk Ends: Privacy of Opportunistic Backhaul</a> presented at EuroSec'22 <br>
         [May 2021] I will be interning with the Core-ML team at Amazon Science this Summer <br>
         [Dec 2020] <a href='https://github.com/vidhiJain/SpatialEmbeddings/blob/main/pubs/ORLR.pdf'> Embeddings for Indoor Navigation</a> presented at NeurIPS'20 ORLR Workshop <br>
