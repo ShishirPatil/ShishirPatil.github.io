@@ -24,8 +24,8 @@ title: Shishir Patil
         <img src="./img.jpg" alt="Shishir's photo" width="100%"/>
     </div>
     <div style="margin-left:45px">
-        <p> I am a Ph.D. student in Computer Science at UC Berkeley advised by <a href='https://people.eecs.berkeley.edu/~jegonzal/'>Prof. Joseph Gonzalez</a> and <a href='https://people.eecs.berkeley.edu/~prabal/'>Prof. Prabal Dutta</a>. I am broadly interested in systems for machine learning, machine learning for the edge, and Sky computing. I am affiliated with the <a href ='https://rise.cs.berkeley.edu/'>RISE Lab</a>, <a href='https://lab11.eecs.berkeley.edu/'>Lab11</a>, <a href ='https://sky.cs.berkeley.edu/'>Sky</a>, and <a href='https://bair.berkeley.edu/'>Berkeley AI Research (BAIR)</a>.</p>
-        <p>In the summer of 2021 I was a Research Intern with the Core ML team at <a href = 'https://www.amazon.science/research-areas/machine-learning'>Amazon Science</a>. Previously, I spent two wonderful years as a <i>Research Fellow</i> at <a href ='https://www.microsoft.com/en-us/research/lab/microsoft-research-india/'>Microsoft Research India</a>, where I was advised by <a href='http://www.prateekjain.org/'>Prateek Jain</a> from the Machine Learning and Optimization Group, <a href='http://harsha-simhadri.org/'>Harsha Vardhan Simhadri</a> and <a href='https://www.microsoft.com/en-us/research/people/visesha/'>Vivek Seshadri</a> from the Systems Group.</p>
+        <p> I am a Ph.D. student in Computer Science at UC Berkeley advised by <a href='https://people.eecs.berkeley.edu/~jegonzal/'>Prof. Joseph Gonzalez</a> and <a href='https://people.eecs.berkeley.edu/~prabal/'>Prof. Prabal Dutta</a>. I am broadly interested in systems for machine learning, machine learning for the edge, and Sky computing. I am affiliated with the <a href ='https://sky.cs.berkeley.edu/'>Sky Computing Lab</a> (previously <a href ='https://rise.cs.berkeley.edu/'>RISE Lab</a>), <a href='https://lab11.eecs.berkeley.edu/'>Lab11</a>,  and <a href='https://bair.berkeley.edu/'>Berkeley AI Research (BAIR)</a>.</p>
+        <p>I was a Research Scientist Intern with the Brain and Cloud teams at Google in the summer of 2022, and the Core ML team at <a href = 'https://www.amazon.science/research-areas/machine-learning'>Amazon Science</a> in 2021. Previously, I spent two wonderful years as a <i>Research Fellow</i> at <a href ='https://www.microsoft.com/en-us/research/lab/microsoft-research-india/'>Microsoft Research India</a>, where I was advised by <a href='http://www.prateekjain.org/'>Prateek Jain</a> from the Machine Learning and Optimization Group, <a href='http://harsha-simhadri.org/'>Harsha Vardhan Simhadri</a> and <a href='https://www.microsoft.com/en-us/research/people/visesha/'>Vivek Seshadri</a> from the Systems Group.</p>
     </div>
 </div>
 
@@ -38,8 +38,16 @@ title: Shishir Patil
         <ul style="list-style-type:none;">
         <img style="display: inline;" src="pin.png" alt="logo" height="20px" width="20px" /> 
         [Mar 2018] <a href = 'https://drive.google.com/file/d/1vQV4ENhC_lkg9FC7BLv6aRDP3e_VgWnX/view?usp=sharing'> Presented our work to Bill Gates!</a><br>
-
+        [Sep 2022] <a href="https://spectrum.ieee.org/neural-network-training">IEEE Spectrum article on POET!</a><br>
+        [Sep 2022] Led the Skyplane<a href="https://youtu.be/NXyADy557Uo?t=5812"> tutorial </a>for Skycamp 2022<br>
+        [Sep 2022] <a href='https://arxiv.org/abs/2210.07259'>Skyplane</a> accepted to NSDI 2023<br> 
+        [Sep 2022] I will be talking about ML on Edge at Princeton and CMU <br>
+        [Aug 2022] Presented POET at Google Feferated Learning Talks, and Google Language Seminar <br>
+        [Aug 2022] Co-presented Galaxy and On-device ML at the Conix workshop at UW, Seattle <br>
+        [Jul 2022] Presented POET as spotlight at ICML 2022! Camera ready on <a href='https://arxiv.org/abs/2207.07697'>arXiv</a><br>
+        [May 2022] Presented POET and Skyplane posters at RISE Retreat [Tahoe, CA] <br>
         [May 2022] POET accepted to ICML '22! Camera ready coming soon.. <br>
+        [May 2022] I will be interning with the Brain and Cloud teams at Google this Summer <br>
         [Apr 2022] <a href='https://web.eecs.umich.edu/~prabal/pubs/papers/despres22sidewalk.pdf'> Where the Sidewalk Ends: Privacy of Opportunistic Backhaul</a> presented at EuroSec'22 <br>
         [May 2021] I will be interning with the Core-ML team at Amazon Science this Summer <br>
         [Dec 2020] <a href='https://github.com/vidhiJain/SpatialEmbeddings/blob/main/pubs/ORLR.pdf'> Embeddings for Indoor Navigation</a> presented at NeurIPS'20 ORLR Workshop <br>
