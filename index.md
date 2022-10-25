@@ -24,8 +24,8 @@ title: Shishir Patil
         <img src="./img.jpg" alt="Shishir's photo" width="100%"/>
     </div>
     <div style="margin-left:45px">
-        <p> I am a Ph.D. student in Computer Science at UC Berkeley advised by <a href='https://people.eecs.berkeley.edu/~jegonzal/'>Prof. Joseph Gonzalez</a> and <a href='https://people.eecs.berkeley.edu/~prabal/'>Prof. Prabal Dutta</a>. I am broadly interested in systems for machine learning, machine learning for the edge, and Sky computing. I am affiliated with the <a href ='https://sky.cs.berkeley.edu/'>Sky Computing Lab</a> (previously <a href ='https://rise.cs.berkeley.edu/'>RISE Lab</a>), <a href='https://lab11.eecs.berkeley.edu/'>Lab11</a>,  and <a href='https://bair.berkeley.edu/'>Berkeley AI Research (BAIR)</a>.</p>
-        <p>I was a Research Scientist Intern with the Brain and Cloud teams at Google in the summer of 2022, and the Core ML team at <a href = 'https://www.amazon.science/research-areas/machine-learning'>Amazon Science</a> in 2021. Previously, I spent two wonderful years as a <i>Research Fellow</i> at <a href ='https://www.microsoft.com/en-us/research/lab/microsoft-research-india/'>Microsoft Research India</a>, where I was advised by <a href='http://www.prateekjain.org/'>Prateek Jain</a> from the Machine Learning and Optimization Group, <a href='http://harsha-simhadri.org/'>Harsha Vardhan Simhadri</a> and <a href='https://www.microsoft.com/en-us/research/people/visesha/'>Vivek Seshadri</a> from the Systems Group.</p>
+        <p> I am a fourth year Ph.D. student in Computer Science at UC Berkeley advised by <a href='https://people.eecs.berkeley.edu/~jegonzal/'>Joseph Gonzalez</a> and <a href='https://people.eecs.berkeley.edu/~prabal/'>Prabal Dutta</a>. I am broadly interested in systems for machine learning, machine learning for the edge, and Sky computing. I am affiliated with the <a href ='https://sky.cs.berkeley.edu/'>Sky Computing Lab</a> (previously <a href ='https://rise.cs.berkeley.edu/'>RISE</a>), <a href='https://lab11.eecs.berkeley.edu/'>Lab11</a>,  and <a href='https://bair.berkeley.edu/'>Berkeley AI Research (BAIR)</a>.</p>
+        <p>I was an Intern with Google Brain and Cloud in summer 2022, and <a href = 'https://www.amazon.science/research-areas/machine-learning'>Amazon Science</a> Core ML in 2021. Previously, I spent two wonderful years as a Research Fellow at <a href ='https://www.microsoft.com/en-us/research/lab/microsoft-research-india/'>Microsoft Research India</a>, where I was advised by <a href='http://www.prateekjain.org/'>Prateek Jain</a>, <a href='http://harsha-simhadri.org/'>Harsha Vardhan Simhadri</a> and <a href='https://www.microsoft.com/en-us/research/people/visesha/'>Vivek Seshadri</a>.</p>
     </div>
 </div>
 
@@ -128,9 +128,8 @@ title: Shishir Patil
         Prior to this, I obtained a B.E. in Electronics and Communication Engineering from R.V.
         College of Engineering in 2017 (awarded University Gold Medal). During my undergraduate 
         program, I worked with <a href ='http://www.cense.iisc.ac.in/m-m-nayak'>Prof. M.M. Nayak</a>
-        from Center for Nano Science and Engineering, <a href = 'http://www.iisc.ac.in/'>Indian 
-        Institute of Science</a> from 2016-2017. I was an intern with Siemens R&D in the
-        summer of 2015.
+        at the <a href = 'http://www.iisc.ac.in/'>Indian 
+        Institute of Science (IISc)</a>. 
     </p>
 
 </div> <!-- /.blurb-->
