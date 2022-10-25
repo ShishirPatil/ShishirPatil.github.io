@@ -97,13 +97,29 @@ title: Shishir Patil
 
     <!-- <hr> -->
 
-    <p>
-    	I also enjoy participating in Hackathons occasionally:<br>
-    	[2020] <a href='https://responsible-ai.devpost.com/'>TensorFlow 2.2 Challenge</a> <i class="fas fa-trophy"></i>,
-    	       <a href='https://la-hacks-2020.devpost.com/'>LA Hacks</a> <i class="fas fa-trophy"></i>,
+    <!-- <p> -->
+    	<!-- I also enjoy participating in Hackathons occasionally:<br>
+    	[2020] <a href='https://responsible-ai.devpost.com/'>TensorFlow 2.2 Challenge</a> <i class="fas fa-trophy"></i>, -->
+    	       <!-- <a href='https://la-hacks-2020.devpost.com/'>LA Hacks</a> <i class="fas fa-trophy"></i>, -->
     	       <!-- Cal Hacks,  -->
-    	       <a href = 'http://terminal.c1games.com/competitions/105'> Citadel Terminal Live</a> <i class="fas fa-trophy"></i><br>
-    	[2019] <a href = 'https://twitter.com/BerkeleyISchool/status/1191542693446455298'> PayPal Hack</a> <i class="fas fa-trophy"></i><br>
+    	       <!-- <a href = 'http://terminal.c1games.com/competitions/105'> Citadel Terminal Live</a> <i class="fas fa-trophy"></i><br> -->
+    	<!-- [2019] <a href = 'https://twitter.com/BerkeleyISchool/status/1191542693446455298'> PayPal Hack</a> <i class="fas fa-trophy"></i><br> -->
+    <!-- </p> -->
+    <!-- <hr> -->
+
+    <p>
+    	Here are some key projects I have co-created:<br>
+    	<a class="github-button" href="https://github.com/ShishirPatil/POET" data-show-count="true" aria-label="Star ShishirPatil/POET on GitHub">Star</a>
+        &nbsp; <a href='https://github.com/shishirPatil/poet'>POET</a> 
+        : Neural Network training on edge devices <br>
+
+        <a class="github-button" href="https://github.com/Microsoft/EdgeML" data-show-count="true" aria-label="Star Microsoft/EdgeML on GitHub">Star</a>
+        <a href='https://github.com/microsoft/edgeml/'> EdgeML</a> 
+        :  Neural Network inference on edge devices<br>
+        
+        <a class="github-button" href="https://github.com/skyplane-project/skyplane" data-show-count="true" aria-label="Star skyplane-project/skyplane on GitHub">Star</a>
+        &nbsp; <a href='https://github.com/skyplane-project/skyplane'>Skyplane</a>
+        : Fast data transfer between cloud object stores<br>     
     </p>
     <hr>
 
