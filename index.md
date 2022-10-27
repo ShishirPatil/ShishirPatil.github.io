@@ -20,7 +20,7 @@ title: Shishir Patil
 </style>
 
 <div style="display: flex; align-content: space-between; justify-content: left; margin-top: 20px; ">
-    <div style="width: 100%;">
+    <div style="width: 35%;">
         <img src="./img.jpg" alt="Shishir's photo" width="100%"/>
     </div>
     <div style="margin-left:45px">
