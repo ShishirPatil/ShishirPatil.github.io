@@ -3,27 +3,11 @@ layout: default
 title: Shishir Patil
 ---
 
-<!-- Shishir's Photo -->
-<style type="text/css">
-	.mobile{
-		width : 25%;
-		height: 25%;
-		margin: 1em 0em;
-	}
-	@media only screen and (max-width: 600px) {
-	  .mobile{
-			width :50%;
-			height:50%;
-			margin: 1em 0em;
-		}
-	}
-</style>
-
 <div style="display: flex; align-content: space-between; justify-content: left; margin-top: 20px; ">
-    <div style="width: 35%;">
+    <div style="width: 60%;">
         <img src="./img.jpg" alt="Shishir's photo" width="100%"/>
     </div>
-    <div style="margin-left:45px">
+    <div style="margin-left:30px">
         <p> I am a fourth year Ph.D. student in Computer Science at UC Berkeley advised by <a href='https://people.eecs.berkeley.edu/~jegonzal/'>Joseph Gonzalez</a> and <a href='https://people.eecs.berkeley.edu/~prabal/'>Prabal Dutta</a>. I am broadly interested in systems for machine learning, machine learning for the edge, and Sky computing. I am affiliated with the <a href ='https://sky.cs.berkeley.edu/'>Sky Computing Lab</a> (previously <a href ='https://rise.cs.berkeley.edu/'>RISE</a>), <a href='https://lab11.eecs.berkeley.edu/'>Lab11</a>,  and <a href='https://bair.berkeley.edu/'>Berkeley AI Research (BAIR)</a>.</p>
         <p>I was an Intern with Google Brain and Cloud in summer 2022, and <a href = 'https://www.amazon.science/research-areas/machine-learning'>Amazon Science</a> Core ML in 2021. Previously, I spent two wonderful years as a Research Fellow at <a href ='https://www.microsoft.com/en-us/research/lab/microsoft-research-india/'>Microsoft Research India</a>, where I was advised by <a href='http://www.prateekjain.org/'>Prateek Jain</a>, <a href='http://harsha-simhadri.org/'>Harsha Vardhan Simhadri</a> and <a href='https://www.microsoft.com/en-us/research/people/visesha/'>Vivek Seshadri</a>.</p>
     </div>
