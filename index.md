@@ -26,8 +26,8 @@ title: Shishir Patil
         [Sep 2022] Led the Skyplane<a href="https://youtu.be/NXyADy557Uo?t=5812"> tutorial </a>for Skycamp 2022<br>
         [Sep 2022] <a href='https://arxiv.org/abs/2210.07259'>Skyplane</a> accepted to NSDI 2023<br> 
         [Sep 2022] I will be talking about ML on Edge at Princeton and CMU <br>
-        [Aug 2022] Presented POET at Google Feferated Learning Talks, and Google Language Seminar <br>
-        [Aug 2022] Co-presented Galaxy and On-device ML at the Conix workshop at UW, Seattle <br>
+        [Aug 2022] Presented POET at Google Federated Learning Talks, and Google Language Seminar <br>
+        [Aug 2022] Presented Galaxy and On-device ML at the Conix workshop at UW, Seattle <br>
         [Jul 2022] Presented POET as spotlight at ICML 2022! Camera ready on <a href='https://arxiv.org/abs/2207.07697'>arXiv</a><br>
         [May 2022] Presented POET and Skyplane posters at RISE Retreat [Tahoe, CA] <br>
         [May 2022] POET accepted to ICML '22! Camera ready coming soon.. <br>
