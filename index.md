@@ -10,6 +10,7 @@ title: Shishir Patil
     <div style="margin-left:30px">
         <p> I am a fourth year Ph.D. student in Computer Science at UC Berkeley advised by <a href='https://people.eecs.berkeley.edu/~jegonzal/'>Joseph Gonzalez</a> and <a href='https://people.eecs.berkeley.edu/~prabal/'>Prabal Dutta</a>. I am broadly interested in systems for machine learning, machine learning for the edge, and Sky computing. I am affiliated with the <a href ='https://sky.cs.berkeley.edu/'>Sky Computing Lab</a> (previously <a href ='https://rise.cs.berkeley.edu/'>RISE</a>), <a href='https://lab11.eecs.berkeley.edu/'>Lab11</a>,  and <a href='https://bair.berkeley.edu/'>Berkeley AI Research (BAIR)</a>.</p>
         <p>I was an Intern with Google Brain and Cloud in summer 2022, and <a href = 'https://www.amazon.science/research-areas/machine-learning'>Amazon Science</a> Core ML in 2021. Previously, I spent two wonderful years as a Research Fellow at <a href ='https://www.microsoft.com/en-us/research/lab/microsoft-research-india/'>Microsoft Research India</a>, where I was advised by <a href='http://www.prateekjain.org/'>Prateek Jain</a>, <a href='http://harsha-simhadri.org/'>Harsha Vardhan Simhadri</a> and <a href='https://www.microsoft.com/en-us/research/people/visesha/'>Vivek Seshadri</a>.</p>
+        <p> If you are looking for CS 268 Advanced Networking course, refer to <a href='https://cs268.io/'>cs268.io</a>.</p>
     </div>
 </div>
 
