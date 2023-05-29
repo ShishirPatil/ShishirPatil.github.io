@@ -8,9 +8,9 @@ title: Shishir Patil
         <img src="./img.jpg" alt="Shishir's photo" width="100%"/>
     </div>
     <div style="margin-left:30px">
-        <p> I am a fourth year Ph.D. student in Computer Science at UC Berkeley advised by <a href='https://people.eecs.berkeley.edu/~jegonzal/'>Joseph Gonzalez</a> and <a href='https://people.eecs.berkeley.edu/~prabal/'>Prabal Dutta</a>. I am broadly interested in systems for machine learning, machine learning for the edge, and Sky computing. I am affiliated with the <a href ='https://sky.cs.berkeley.edu/'>Sky Computing Lab</a> (previously <a href ='https://rise.cs.berkeley.edu/'>RISE</a>), <a href='https://lab11.eecs.berkeley.edu/'>Lab11</a>,  and <a href='https://bair.berkeley.edu/'>Berkeley AI Research (BAIR)</a>.</p>
+        <p> I am a fourth year Ph.D. student in Computer Science at UC Berkeley advised by <a href='https://people.eecs.berkeley.edu/~jegonzal/'>Joseph Gonzalez</a> and <a href='https://people.eecs.berkeley.edu/~prabal/'>Prabal Dutta</a>. I am broadly interested in ML-Systems, LLMs, Edge-ML, and Sky computing. I am affiliated with the <a href ='https://sky.cs.berkeley.edu/'>Sky Computing Lab</a> (previously <a href ='https://rise.cs.berkeley.edu/'>RISE</a>), <a href='https://lab11.eecs.berkeley.edu/'>Lab11</a>,  and <a href='https://bair.berkeley.edu/'>Berkeley AI Research (BAIR)</a>.</p>
         <p>I was an Intern with Google Brain and Cloud in summer 2022, and <a href = 'https://www.amazon.science/research-areas/machine-learning'>Amazon Science</a> Core ML in 2021. Previously, I spent two wonderful years as a Research Fellow at <a href ='https://www.microsoft.com/en-us/research/lab/microsoft-research-india/'>Microsoft Research India</a>, where I was advised by <a href='http://www.prateekjain.org/'>Prateek Jain</a>, <a href='http://harsha-simhadri.org/'>Harsha Vardhan Simhadri</a> and <a href='https://www.microsoft.com/en-us/research/people/visesha/'>Vivek Seshadri</a>.</p>
-        <p> If you are looking for CS 268 Advanced Networking course, refer to <a href='https://cs268.io/'>cs268.io</a>.</p>
+        <p> To learn more about Gorilla LLM <a href='https://gorilla.cs.berkeley.edu/'>[Website]</a> <a href='https://github.com/ShishirPatil/gorilla/'>[Github]</a> <a href='https://arxiv.org/abs/2305.15334'>[Paper]</a> <a href='https://twitter.com/shishirpatil_/status/1661780076277678082'>[Twitter]</a></p>
     </div>
 </div>
 
@@ -23,6 +23,10 @@ title: Shishir Patil
         <ul style="list-style-type:none;">
         <img style="display: inline;" src="pin.png" alt="logo" height="20px" width="20px" /> 
         [Mar 2018] <a href = 'https://drive.google.com/file/d/1vQV4ENhC_lkg9FC7BLv6aRDP3e_VgWnX/view?usp=sharing'> Presented our work to Bill Gates!</a><br>
+        [May 2023] Released <a href="https://gorilla.cs.berkeley.edu/">Gorilla LLM</a>!<br>
+        [Apr 2023] Talk at Harvard Systems + Theory group<br>
+        [Apr 2023] Skyplane published at NSDI 2023!<br>
+        [Dec 2022] Talk at Microsoft Research India, and Google Research, Bangalore<br>
         [Sep 2022] <a href="https://spectrum.ieee.org/neural-network-training">IEEE Spectrum article on POET!</a><br>
         [Sep 2022] Led the Skyplane<a href="https://youtu.be/NXyADy557Uo?t=5812"> tutorial </a>for Skycamp 2022<br>
         [Sep 2022] <a href='https://arxiv.org/abs/2210.07259'>Skyplane</a> accepted to NSDI 2023<br> 
@@ -94,7 +98,11 @@ title: Shishir Patil
 
     <p>
     	Here are some key projects I have co-created:<br>
-    	<a class="github-button" href="https://github.com/ShishirPatil/POET" data-show-count="true" aria-label="Star ShishirPatil/POET on GitHub">Star</a>
+    	<a class="github-button" href="https://github.com/ShishirPatil/gorilla" data-show-count="true" aria-label="Star ShishirPatil/gorilla on GitHub">Star</a>
+        &nbsp; <a href='https://github.com/shishirPatil/gorilla'>Gorilla</a> 
+        : Large Language Model Connected with Massive APIs <br>
+        
+        <a class="github-button" href="https://github.com/ShishirPatil/POET" data-show-count="true" aria-label="Star ShishirPatil/POET on GitHub">Star</a>
         &nbsp; <a href='https://github.com/shishirPatil/poet'>POET</a> 
         : Neural Network training on edge devices <br>
 
@@ -106,16 +114,16 @@ title: Shishir Patil
         &nbsp; <a href='https://github.com/skyplane-project/skyplane'>Skyplane</a>
         : Fast data transfer between cloud object stores<br>     
     </p>
-    <hr>
 
 
+    <!-- <hr>
     <p> 
         Prior to this, I obtained a B.E. in Electronics and Communication Engineering from R.V.
         College of Engineering in 2017 (awarded University Gold Medal). During my undergraduate 
         program, I worked with <a href ='http://www.cense.iisc.ac.in/m-m-nayak'>Prof. M.M. Nayak</a>
         at the <a href = 'http://www.iisc.ac.in/'>Indian 
         Institute of Science (IISc)</a>. 
-    </p>
+    </p> -->
 
 </div> <!-- /.blurb-->
 
