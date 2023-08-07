@@ -99,7 +99,7 @@ title: Shishir Patil
     <p>
     	Here are some key projects I have co-created:<br>
     	<a class="github-button" href="https://github.com/ShishirPatil/gorilla" data-show-count="true" aria-label="Star ShishirPatil/gorilla on GitHub">Star</a>
-        &nbsp; <a href='https://github.com/shishirPatil/gorilla'>Gorilla</a> 
+        <a href='https://github.com/shishirPatil/gorilla'>Gorilla</a> 
         : Large Language Model Connected with Massive APIs <br>
         
         <a class="github-button" href="https://github.com/ShishirPatil/POET" data-show-count="true" aria-label="Star ShishirPatil/POET on GitHub">Star</a>
