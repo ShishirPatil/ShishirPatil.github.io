@@ -4,7 +4,7 @@ title: Shishir Patil
 ---
 
 <div style="display: flex; align-content: space-between; justify-content: left; margin-top: 20px; ">
-    <div style="width: 60%;">
+    <div style="width: 90%;">
         <img src="./img.jpg" alt="Shishir's photo" width="100%"/>
     </div>
     <div style="margin-left:30px">
@@ -109,10 +109,12 @@ title: Shishir Patil
         <a class="github-button" href="https://github.com/Microsoft/EdgeML" data-show-count="true" aria-label="Star Microsoft/EdgeML on GitHub">Star</a>
         <a href='https://github.com/microsoft/edgeml/'> EdgeML</a> 
         :  Neural Network inference on edge devices<br>
-        
-        <a class="github-button" href="https://github.com/skyplane-project/skyplane" data-show-count="true" aria-label="Star skyplane-project/skyplane on GitHub">Star</a>
-        &nbsp; <a href='https://github.com/skyplane-project/skyplane'>Skyplane</a>
-        : Fast data transfer between cloud object stores<br>     
+
+        <a class="github-button" href="https://github.com/gorilla-llm/gorilla-cli" data-show-count="true" aria-label="Star gorilla-llm/gorilla-cli on GitHub">Star</a>
+        &nbsp; <a href='https://github.com/gorilla-llm/gorilla-cli'>Gorilla-CLI</a>
+        : LLMs for your Command Line<br>
+
+             
     </p>
 
 
