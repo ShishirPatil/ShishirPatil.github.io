@@ -23,8 +23,11 @@ title: Shishir Patil
         <ul style="list-style-type:none;">
         <img style="display: inline;" src="pin.png" alt="logo" height="20px" width="20px" /> 
         [Mar 2018] <a href = 'https://drive.google.com/file/d/1vQV4ENhC_lkg9FC7BLv6aRDP3e_VgWnX/view?usp=sharing'> Presented our work to Bill Gates!</a><br>
+        [Dec 2023] Presenting Gorilla at Microsoft Research, and Google Research Bangalore.<br>
+        [Nov 2023] Presenting Gorilla at at UCL NLP, Meta, and DeepMind London!<br>
+        [Oct 2023] Attending the Dagstuhl seminar on <a href="https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23432">EdgeAI</a>!<br>
         [May 2023] Released <a href="https://gorilla.cs.berkeley.edu/">Gorilla LLM</a>!<br>
-        [Apr 2023] Talk at Harvard Systems + Theory group<br>
+        [Apr 2023] Talk on POET at Harvard Systems + Theory group<br>
         [Apr 2023] Skyplane published at NSDI 2023!<br>
         [Dec 2022] Talk at Microsoft Research India, and Google Research, Bangalore<br>
         [Sep 2022] <a href="https://spectrum.ieee.org/neural-network-training">IEEE Spectrum article on POET!</a><br>
