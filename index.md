@@ -64,40 +64,8 @@ title: Shishir Patil
 
     <hr>
 
-    <!-- <h3>My Current Projects:</h3> -->
-    <!-- <p> -->
-        <!-- <ul> -->
-        <!-- <li> -->
-        <!-- <a href ='https://github.com/Microsoft/EdgeML'>Edge ML:</a>
-         Machine learning predictions on edge devices (microcontrollers) are critical in many scenarios where we are constrained by latency and bandwidth or value data privacy and battery life. e.g., Internet of Things (IoT) and wearable electronics. In this project, we are designing new ML algorithms that generate tiny models that can enable prediction on edge devices with accuracy comparable to cloud solutions. <!-- These algorithms can be deployed on microcontrollers that use milliwatts of power and have just a few kB of RAM. -->
-        <!-- </li> -->
-        <!-- </ul> -->
-    <!-- </p> -->
+    <!-- My past projects can be found in my <a href='https://drive.google.com/file/d/1Fdmc4aNIdXnHyt9MQlyiXhmM2GKku8Ya/view?usp=sharing'>CV</a> -->
 
-    <!-- <p> -->
-        <!-- <ul> -->
-        <!-- <li> -->
-        <!-- PulsCity: Deploying IoT for urban cities involves 3 challenges:
-        (a) Deploying sensor systems that capture the physical phenomenon (b)
-        Transmission of data from the sensors to cloud/server and (c)
-        Getting meaningful insights from the data.
-        In this project, we propose novel techniques to build a scalable framework to address the communication component - transmission of data from the sensors to a centralized server. -->
-        <!-- </li><br> -->
-        <!-- <i>My past projects can be found in my <a href='https://drive.google.com/file/d/1Fdmc4aNIdXnHyt9MQlyiXhmM2GKku8Ya/view?usp=sharing'>CV</a></i> -->
-        <!-- </ul>  -->
-    <!-- </p> -->
-
-    <!-- <hr> -->
-
-    <!-- <p> -->
-    	<!-- I also enjoy participating in Hackathons occasionally:<br>
-    	[2020] <a href='https://responsible-ai.devpost.com/'>TensorFlow 2.2 Challenge</a> <i class="fas fa-trophy"></i>, -->
-    	       <!-- <a href='https://la-hacks-2020.devpost.com/'>LA Hacks</a> <i class="fas fa-trophy"></i>, -->
-    	       <!-- Cal Hacks,  -->
-    	       <!-- <a href = 'http://terminal.c1games.com/competitions/105'> Citadel Terminal Live</a> <i class="fas fa-trophy"></i><br> -->
-    	<!-- [2019] <a href = 'https://twitter.com/BerkeleyISchool/status/1191542693446455298'> PayPal Hack</a> <i class="fas fa-trophy"></i><br> -->
-    <!-- </p> -->
-    <!-- <hr> -->
 
     <p>
     	Here are some key projects I have co-created:<br>
@@ -115,20 +83,9 @@ title: Shishir Patil
 
         <a class="github-button" href="https://github.com/gorilla-llm/gorilla-cli" data-show-count="true" aria-label="Star gorilla-llm/gorilla-cli on GitHub">Star</a>
         &nbsp; <a href='https://github.com/gorilla-llm/gorilla-cli'>Gorilla-CLI</a>
-        : LLMs for your Command Line<br>
-
-             
+        : LLMs for your Command Line<br>             
     </p>
 
-
-    <!-- <hr>
-    <p> 
-        Prior to this, I obtained a B.E. in Electronics and Communication Engineering from R.V.
-        College of Engineering in 2017 (awarded University Gold Medal). During my undergraduate 
-        program, I worked with <a href ='http://www.cense.iisc.ac.in/m-m-nayak'>Prof. M.M. Nayak</a>
-        at the <a href = 'http://www.iisc.ac.in/'>Indian 
-        Institute of Science (IISc)</a>. 
-    </p> -->
 
 </div> <!-- /.blurb-->
 
