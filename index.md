@@ -23,7 +23,8 @@ title: Shishir Patil
         <ul style="list-style-type:none;">
         <img style="display: inline;" src="pin.png" alt="logo" height="20px" width="20px" /> 
         [Mar 2018] <a href = 'https://drive.google.com/file/d/1vQV4ENhC_lkg9FC7BLv6aRDP3e_VgWnX/view?usp=sharing'> Presented our work to Bill Gates!</a><br>
-        [Dec 2023] Presenting Gorilla at Microsoft Research, and Google Research Bangalore.<br>
+        [Dec 2023] Released Gorilla OpenFunctions. Check out our <a href="https://gorilla.cs.berkeley.edu/blogs/4_open_functions.html">release blog</a><br>
+        <!-- [Dec 2023] Presenting Gorilla at Microsoft Research, and Google Research Bangalore<br> -->
         [Nov 2023] Presenting Gorilla at at UCL NLP, Meta, and DeepMind London!<br>
         [Oct 2023] Attending the Dagstuhl seminar on <a href="https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23432">EdgeAI</a>!<br>
         [May 2023] Released <a href="https://gorilla.cs.berkeley.edu/">Gorilla LLM</a>!<br>
@@ -87,6 +88,27 @@ title: Shishir Patil
     </p>
 
     
+    <div class="media-section">
+    <hr>
+    <h3>Few Media Highlights of my work</h3>
+    <ul>
+        <li><a href='publications/media-daily-cal.pdf'>The Daily Californian newspaper features Gorilla</a></li>
+        <!-- <li><a href='https://konghq.com/blog/engineering/gorilla-llm'>Kong Article on Gorilla</a> </li> -->
+        <li> <a href='https://www.youtube.com/watch?v=LkV5DTRNxAg'>Gorilla paper walkthrough</a>, <a href='https://www.youtube.com/watch?v=HUtYOLX7HZ4'> podcast, </a> and <a href='https://weaviate.io/blog/weaviate-gorilla-part-1'> How Weviate trained their own Gorilla</a></li>
+        <li>My advisor interviewed me: <a href='https://www.youtube.com/watch?v=i8mDLQUisQc'>Generating Conversations with Prof. Joseph Gonzalez</a></li>
+        <li><a href='https://www.youtube.com/watch?v=EZtFLyFjKn4'>Gorilla on Youtube</a></li>
+        <li><a href='https://spectrum.ieee.org/neural-network-training'>IEEE Spectrum article on POET</a></li>
+        <li><a href='https://blog.adafruit.com/2019/10/14/machine-learning-monday-machine-learning-on-an-adafruit-trinket-m0-to-recognize-gestures-adafruit-microsoft-protonn-paulfo-thethingsconference-ttn_uk/'>Adafruit blog on Paul's Workshop at The Things Conference, UK</a></li>
+        <li><a href='https://blog.arduino.cc/2019/11/06/gesturepod-is-a-clip-on-smartphone-interface-for-the-visually-impaired/'>Arduino</a> and <a href='https://www.hackster.io/news/gesturepod-is-a-cane-based-smartphone-interface-8c37776ad7d2'>Hackster at ACM UIST 2019</a></li>
+        <li><a href="https://www.zdnet.com/video/microsoft-researchers-add-smarts-to-everyday-objects/?fbclid=IwAR3DCey1X675mQ-uk7mu1Wl8aFXM4AQGNL4SygercVQY6PsmDkFvO3P9BE8">ZD Net at NeurIPS 2018</a></li>
+        <!-- <li><a href="https://www.microsoft.com/en-us/research/event/neurips-2018/#!demonstrations">MSR at NeurIPS</a> and on <a href="https://twitter.com/msftresearch/status/1068980917178372097?lang=en">Twitter</a></li> -->
+        <li><a href="https://www.ndtv.com/video/exclusive/ndtv-special-ndtv-24x7/why-empathy-is-key-to-innovation-microsoft-chief-satya-nadella-to-ndtv-471666">Satya Nadella in an interview with Indian media [5:45 - 7:30]</a></li>
+        <li><a href="http://epaper.financialexpress.com/1462735/Indian-Express/December-11,-2017#page/8/1">Financial Express</a></li>
+        <!-- <li><a href="https://blogs.microsoft.com/ai/ais-big-leap-tiny-devices-opens-world-possibilities/">Microsoft AI Blog</a></li> -->
+    </ul>
+    </div> <!-- /.media-section-->
+ 
+    
     <div class="talks-section">
     <hr>
     <h2>Talks</h2>
@@ -113,7 +135,7 @@ title: Shishir Patil
         </li>
         <li><strong>“POET: Training Neural Networks for the Bleeding Edge!”</strong>
             <ul>
-                <li>Dagstuhl Seminars (Wadern, Germany), October 2023</li>
+                <li>Dagstuhl Seminar (Wadern, Germany), October 2023</li>
                 <li>Harvard Systems + Theory group (Boston, MA), April 2023</li>
                 <li>Sky Winter Retreat (Monterey, CA), January 2023</li>
                 <li>Google Research (Bengaluru, India), December 2022</li>
@@ -135,6 +157,13 @@ title: Shishir Patil
         </li>
     </ul>
     </div> <!-- /.talks-section-->
+
+    <hr>
+    <p>
+    Miscellaneous: I race go-karts all year-round, ski in winters, and sail in summers. 
+    If we are going sailing, please read <a href="blog/2023/12/28/sail-with-shishir">this</a>. 
+    </p>
+
 
 
 </div> <!-- /.blurb-->
