@@ -8,7 +8,7 @@ title: Shishir Patil
         <img src="./img.jpg" alt="Shishir's photo" width="100%"/>
     </div>
     <div style="margin-left:30px">
-        <p> I am a fourth year Ph.D. student in Computer Science at UC Berkeley advised by <a href='https://people.eecs.berkeley.edu/~jegonzal/'>Joseph Gonzalez</a> and <a href='https://people.eecs.berkeley.edu/~prabal/'>Prabal Dutta</a>. I am broadly interested in ML-Systems, LLMs, Edge-ML, and Sky computing. I am affiliated with the <a href ='https://sky.cs.berkeley.edu/'>Sky Computing Lab</a> (previously <a href ='https://rise.cs.berkeley.edu/'>RISE</a>), <a href='https://lab11.eecs.berkeley.edu/'>Lab11</a>,  and <a href='https://bair.berkeley.edu/'>Berkeley AI Research (BAIR)</a>.</p>
+        <p> I am a Ph.D. student in Computer Science at UC Berkeley advised by <a href='https://people.eecs.berkeley.edu/~jegonzal/'>Joseph Gonzalez</a> and <a href='https://people.eecs.berkeley.edu/~prabal/'>Prabal Dutta</a>. I am broadly interested in ML-Systems, LLMs, and on-device ML. I am affiliated with the <a href ='https://sky.cs.berkeley.edu/'>Sky Computing Lab</a> (previously <a href ='https://rise.cs.berkeley.edu/'>RISE</a>), <a href='https://lab11.eecs.berkeley.edu/'>Lab11</a>,  and <a href='https://bair.berkeley.edu/'>Berkeley AI Research (BAIR)</a>.</p>
         <p>I was an Intern with Google Brain and Cloud in summer 2022, and <a href = 'https://www.amazon.science/research-areas/machine-learning'>Amazon Science</a> Core ML in 2021. Previously, I spent two wonderful years as a Research Fellow at <a href ='https://www.microsoft.com/en-us/research/lab/microsoft-research-india/'>Microsoft Research India</a>, where I was advised by <a href='http://www.prateekjain.org/'>Prateek Jain</a>, <a href='http://harsha-simhadri.org/'>Harsha Vardhan Simhadri</a> and <a href='https://www.microsoft.com/en-us/research/people/visesha/'>Vivek Seshadri</a>.</p>
         <p> To learn more about Gorilla LLM <a href='https://gorilla.cs.berkeley.edu/'>[Website]</a> <a href='https://github.com/ShishirPatil/gorilla/'>[Github]</a> <a href='https://arxiv.org/abs/2305.15334'>[Paper]</a> <a href='https://twitter.com/shishirpatil_/status/1661780076277678082'>[Twitter]</a></p>
     </div>
@@ -85,6 +85,56 @@ title: Shishir Patil
         &nbsp; <a href='https://github.com/gorilla-llm/gorilla-cli'>Gorilla-CLI</a>
         : LLMs for your Command Line<br>             
     </p>
+
+    
+    <div class="talks-section">
+    <hr>
+    <h2>Talks</h2>
+    <ul>
+        <li><strong>“Gorilla and Connecting Large Language Models to the outside world”</strong>
+            <ul>
+                <li>Google Research (Bengaluru, India), December 2023</li>
+                <li>Microsoft Research India (Bengaluru, India), December 2023</li>
+                <li>Deepmind (London, United Kingdom), November 2023</li>
+                <li>UCL NLP Seminar Series (London, United Kingdom), November 2023</li>
+                <li>Meta (London, United Kingdom), November 2023</li>
+                <li>Sky Camp (Berkeley, CA), October 2023</li>
+                <li>Ray Summit (San Francisco, CA), September 2023</li>
+                <li>Kong API Summit (San Francisco, CA), September 2023</li>
+                <li>Simon’s Institute for Theory of Computing (Berkeley, CA), August 2023</li>
+                <li>Llamaindex Webinar (San Francisco, CA), August 2023</li>
+                <li>Mosaic ML (San Francisco, CA), August 2023</li>
+                <li>Intel (Santa Clara, CA), August 2023</li>
+                <li>Microsoft Research Redmond (Redmond, WA), June 2023</li>
+                <li>Berkeley LLM Hackathon (Berkeley, CA), June 2023</li>
+                <li>Apple (Cupertino, CA), May 2023</li>
+                <li>Sky Summer Retreat (Tahoe, CA), May 2023</li>
+            </ul>
+        </li>
+        <li><strong>“POET: Training Neural Networks for the Bleeding Edge!”</strong>
+            <ul>
+                <li>Dagstuhl Seminars (Wadern, Germany), October 2023</li>
+                <li>Harvard Systems + Theory group (Boston, MA), April 2023</li>
+                <li>Sky Winter Retreat (Monterey, CA), January 2023</li>
+                <li>Google Research (Bengaluru, India), December 2022</li>
+                <li>Microsoft Research (Bengaluru, India), December 2022</li>
+                <li>Carnegie Mellon University (Pittsburgh, PA), September 2022</li>
+                <li>Princeton University (Princeton, NJ), September 2022</li>
+                <li>Google Federated Learning Talks (Mountain View, CA), August 2022</li>
+                <li>University of Washington (Seattle, WA), July 2022</li>
+            </ul>
+        </li>
+        <li><strong>“GesturePod and on device ML”</strong>
+            <ul>
+                <li>UIST 2019 (New Orleans, LA, USA), October 2019</li>
+                <li>Microsoft Research Techfest (Redmond, WA), March 2019</li>
+                <li>VMare Research 2019 (Monterey, CA), January 2019</li>
+                <li>RISE Retreat 2019 (Monterey, CA), January 2019</li>
+                <li>Microsoft Research (Bengaluru, India), January 2019</li>
+            </ul>
+        </li>
+    </ul>
+    </div> <!-- /.talks-section-->
 
 
 </div> <!-- /.blurb-->

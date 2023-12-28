@@ -147,3 +147,17 @@ ol li {
     font-family: 'Open Sans', 'Linux Libertine', 'Helvetica', 'Arial', 'Sans-Serif';
 }
 
+.talks-section h2 {
+    font-size: 1.7em;
+    color: #333333;
+}
+
+.talks-section ul {
+    font-size: 1em;
+    color: #555555;
+}
+
+.talks-section ul li {
+    font-size: 1em;
+    /* margin-bottom: 10px; */
+}
