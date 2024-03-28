@@ -8,8 +8,8 @@ title: Shishir Patil
         <img src="./img.jpg" alt="Shishir's photo" width="100%"/>
     </div>
     <div style="margin-left:30px">
-        <p> I am a Ph.D. student in Computer Science at UC Berkeley advised by <a href='https://people.eecs.berkeley.edu/~jegonzal/'>Joseph Gonzalez</a> and <a href='https://people.eecs.berkeley.edu/~prabal/'>Prabal Dutta</a>. I am broadly interested in ML-Systems, LLMs, and on-device ML. I am affiliated with the <a href ='https://sky.cs.berkeley.edu/'>Sky Computing Lab</a> (previously <a href ='https://rise.cs.berkeley.edu/'>RISE</a>), <a href='https://lab11.eecs.berkeley.edu/'>Lab11</a>,  and <a href='https://bair.berkeley.edu/'>Berkeley AI Research (BAIR)</a>.</p>
-        <p>I was an Intern with Google Brain and Cloud in summer 2022, and <a href = 'https://www.amazon.science/research-areas/machine-learning'>Amazon Science</a> Core ML in 2021. Previously, I spent two wonderful years as a Research Fellow at <a href ='https://www.microsoft.com/en-us/research/lab/microsoft-research-india/'>Microsoft Research India</a>, where I was advised by <a href='http://www.prateekjain.org/'>Prateek Jain</a>, <a href='http://harsha-simhadri.org/'>Harsha Vardhan Simhadri</a> and <a href='https://www.microsoft.com/en-us/research/people/visesha/'>Vivek Seshadri</a>.</p>
+        <p> I am a Ph.D. student in Computer Science at UC Berkeley where I work closely with <a href='https://people.eecs.berkeley.edu/~jegonzal/'>Joseph Gonzalez</a>, <a href='https://people.eecs.berkeley.edu/~prabal/'>Prabal Dutta</a>, and <a href='https://people.eecs.berkeley.edu/~istoica/'>Ion Stoica</a>. I am broadly interested in teaching LLMs to use tools, ML-Systems, and on-device ML. I am affiliated with the <a href ='https://sky.cs.berkeley.edu/'>Sky Computing Lab</a> (previously <a href ='https://rise.cs.berkeley.edu/'>RISE</a>), <a href='https://lab11.eecs.berkeley.edu/'>Lab11</a>,  and <a href='https://bair.berkeley.edu/'>Berkeley AI Research (BAIR)</a>.</p>
+        <p>I was an intern with Apple in 2023, Google Brain (now DeepMind) and Cloud in 2022, and <a href = 'https://www.amazon.science/research-areas/machine-learning'>Amazon Science</a> Core ML in 2021. Previously, I spent two wonderful years as a Research Fellow at <a href ='https://www.microsoft.com/en-us/research/lab/microsoft-research-india/'>Microsoft Research India</a>, where I was advised by <a href='http://www.prateekjain.org/'>Prateek Jain</a>, <a href='http://harsha-simhadri.org/'>Harsha Vardhan Simhadri</a> and <a href='https://www.microsoft.com/en-us/research/people/visesha/'>Vivek Seshadri</a>.</p>
         <p> To learn more about Gorilla LLM <a href='https://gorilla.cs.berkeley.edu/'>[Website]</a> <a href='https://github.com/ShishirPatil/gorilla/'>[Github]</a> <a href='https://arxiv.org/abs/2305.15334'>[Paper]</a> <a href='https://twitter.com/shishirpatil_/status/1661780076277678082'>[Twitter]</a></p>
     </div>
 </div>
@@ -92,6 +92,7 @@ title: Shishir Patil
     <hr>
     <h3>Few Media Highlights of my work</h3>
     <ul>
+        <li><a href='https://techcommunity.microsoft.com/t5/ai-ai-platform-blog/raft-a-new-way-to-teach-llms-to-be-better-at-rag/ba-p/4084674'>Microsoft and Meta blog on our RAFT paper</a></li>
         <li><a href='publications/media-daily-cal.pdf'>The Daily Californian newspaper features Gorilla</a></li>
         <!-- <li><a href='https://konghq.com/blog/engineering/gorilla-llm'>Kong Article on Gorilla</a> </li> -->
         <li> <a href='https://www.youtube.com/watch?v=LkV5DTRNxAg'>Gorilla paper walkthrough</a>, <a href='https://www.youtube.com/watch?v=HUtYOLX7HZ4'> podcast, </a> and <a href='https://weaviate.io/blog/weaviate-gorilla-part-1'> How Weviate trained their own Gorilla</a></li>
