@@ -9,9 +9,9 @@ title: Shishir Patil
     </div>
     <div style="margin-left:30px">
         <p> I am a Ph.D. student in Computer Science at UC Berkeley where I am advised by <a href='https://people.eecs.berkeley.edu/~jegonzal/'>Joseph Gonzalez</a>, <a href='https://people.eecs.berkeley.edu/~prabal/'>Prabal Dutta</a>, and <a href='https://people.eecs.berkeley.edu/~istoica/'>Ion Stoica</a>. I am broadly interested in ML-Systems, especially around LLM post-training, and tool use for LLMs. I am affiliated with the <a href ='https://sky.cs.berkeley.edu/'>Sky Computing Lab</a> (previously <a href ='https://rise.cs.berkeley.edu/'>RISE</a>), <a href='https://lab11.eecs.berkeley.edu/'>Lab11</a>,  and <a href='https://bair.berkeley.edu/'>Berkeley AI Research (BAIR)</a>.</p>
-        <p> Since Jun 2024, I'm a Research Scientist on the llama team at Meta. Checkout: llama-1B/3B [<a href='https://x.com/shishirpatil_/status/1839007216407556467'>release</a>], and llama-3.3 (led post-training).</p> 
+        <!-- <p> Since Jun 2024, I'm a Research Scientist on the llama team at Meta. Checkout: llama-1B/3B [<a href='https://x.com/shishirpatil_/status/1839007216407556467'>release</a>], and llama-3.3 (led post-training).</p>  -->
         <p> I created and lead the Gorilla, GoEx, RAFT, OpenFunctions, and Berkeley Function Calling Leaderboard (BFCL) projects. Learn more about Gorilla: <a href='https://gorilla.cs.berkeley.edu/'>[Website]</a> <a href='https://github.com/ShishirPatil/gorilla/'>[Github]</a> <a href='https://twitter.com/shishirpatil_/status/1661780076277678082'>[Twitter]</a></p>
-        <p>I interned with Apple in 2023, Google Brain (now DeepMind) and Cloud in 2022, and Amazon Science Core ML in 2021. Previously, I spent two wonderful years as a Research Fellow at <a href ='https://www.microsoft.com/en-us/research/lab/microsoft-research-india/'>Microsoft Research India</a>, where I was advised by <a href='http://www.prateekjain.org/'>Prateek Jain</a>, <a href='http://harsha-simhadri.org/'>Harsha Simhadri</a> and <a href='https://www.microsoft.com/en-us/research/people/visesha/'>Vivek Seshadri</a>.</p>
+        <!-- <p>I interned with Apple in 2023, Google Brain (now DeepMind) and Cloud in 2022, and Amazon Science Core ML in 2021. Previously, I spent two wonderful years as a Research Fellow at <a href ='https://www.microsoft.com/en-us/research/lab/microsoft-research-india/'>Microsoft Research India</a>, where I was advised by <a href='http://www.prateekjain.org/'>Prateek Jain</a>, <a href='http://harsha-simhadri.org/'>Harsha Simhadri</a> and <a href='https://www.microsoft.com/en-us/research/people/visesha/'>Vivek Seshadri</a>.</p> -->
     </div>
 </div>
 
@@ -93,7 +93,7 @@ title: Shishir Patil
     <hr>
     <h3>Few Media Highlights of my work</h3>
     <ul>
-        <li><a href='https://techcommunity.microsoft.com/t5/ai-ai-platform-blog/raft-a-new-way-to-teach-llms-to-be-better-at-rag/ba-p/4084674'>Microsoft and Meta blog on our RAFT paper</a></li>
+        <li><a href='https://techcommunity.microsoft.com/t5/ai-ai-platform-blog/raft-a-new-way-to-teach-llms-to-be-better-at-rag/ba-p/4084674'>Microsoft</a> and <a href='https://ai.meta.com/blog/raft-llama-retrieval-augmented-generation-supervised-fine-tuning-microsoft/'>Meta</a> blog on our RAFT paper</li>
         <li><a href='publications/media-daily-cal.pdf'>The Daily Californian newspaper features Gorilla</a></li>
         <!-- <li><a href='https://konghq.com/blog/engineering/gorilla-llm'>Kong Article on Gorilla</a> </li> -->
         <li> <a href='https://www.youtube.com/watch?v=LkV5DTRNxAg'>Gorilla paper walkthrough</a>, <a href='https://www.youtube.com/watch?v=HUtYOLX7HZ4'> podcast, </a> and <a href='https://weaviate.io/blog/weaviate-gorilla-part-1'> How Weviate trained their own Gorilla</a></li>
