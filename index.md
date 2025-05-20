@@ -11,6 +11,7 @@ title: Shishir Patil
         <p> I am a Ph.D. student in Computer Science at UC Berkeley where I am advised by <a href='https://people.eecs.berkeley.edu/~jegonzal/'>Joseph Gonzalez</a>, <a href='https://people.eecs.berkeley.edu/~prabal/'>Prabal Dutta</a>, and <a href='https://people.eecs.berkeley.edu/~istoica/'>Ion Stoica</a>. I am broadly interested in ML-Systems, especially around LLM post-training, and tool use for LLMs. I am affiliated with the <a href ='https://sky.cs.berkeley.edu/'>Sky Computing Lab</a> (previously <a href ='https://rise.cs.berkeley.edu/'>RISE</a>), <a href='https://lab11.eecs.berkeley.edu/'>Lab11</a>,  and <a href='https://bair.berkeley.edu/'>Berkeley AI Research (BAIR)</a>.</p>
         <!-- <p> Since Jun 2024, I'm a Research Scientist on the llama team at Meta. Checkout: llama-1B/3B [<a href='https://x.com/shishirpatil_/status/1839007216407556467'>release</a>], and llama-3.3 (led post-training).</p>  -->
         <p> I created and lead the Gorilla, GoEx, RAFT, OpenFunctions, and Berkeley Function Calling Leaderboard (BFCL) projects. Learn more about Gorilla: <a href='https://gorilla.cs.berkeley.edu/'>[Website]</a> <a href='https://github.com/ShishirPatil/gorilla/'>[Github]</a> <a href='https://twitter.com/shishirpatil_/status/1661780076277678082'>[Twitter]</a></p>
+        <p> My dissertation [<a href='https://youtu.be/rFpDR7oh1TE'>talk</a>] on the  evolution of Agentic LLMs from function calling to truly autonomous agents.</p>
         <!-- <p>I interned with Apple in 2023, Google Brain (now DeepMind) and Cloud in 2022, and Amazon Science Core ML in 2021. Previously, I spent two wonderful years as a Research Fellow at <a href ='https://www.microsoft.com/en-us/research/lab/microsoft-research-india/'>Microsoft Research India</a>, where I was advised by <a href='http://www.prateekjain.org/'>Prateek Jain</a>, <a href='http://harsha-simhadri.org/'>Harsha Simhadri</a> and <a href='https://www.microsoft.com/en-us/research/people/visesha/'>Vivek Seshadri</a>.</p> -->
     </div>
 </div>
@@ -24,6 +25,17 @@ title: Shishir Patil
         <ul style="list-style-type:none;">
         <img style="display: inline;" src="pin.png" alt="logo" height="20px" width="20px" /> 
         [Mar 2018] <a href = 'https://drive.google.com/file/d/1vQV4ENhC_lkg9FC7BLv6aRDP3e_VgWnX/view?usp=sharing'> Presented our work to Bill Gates!</a><br>
+        [Dec 2024] Gorilla published at NeurIPS 2024<br>
+        [Nov 2024] LLoCO published at EMNLP 2024<br>
+        [Oct 2024] Launched Agent Arena by 🦍 Gorilla X LMSYS Chatbot Arena. Check it <a href='https://gorilla.cs.berkeley.edu/blogs/14_agent_arena.html'>out</a><br>
+        [Sep 2024] Released BFCL v3 with multi-turn. Release blog <a href='https://gorilla.cs.berkeley.edu/blogs/13_bfcl_v3_multi_turn.html'>here</a><br>
+        [Aug 2024] Released BFCL v2 with community contributed APIs. Release <a href='https://gorilla.cs.berkeley.edu/blogs/12_bfcl_v2_live.html'>blog</a><br>
+        [Apr 2024] Microsoft covers GoEx in their <a href='https://techcommunity.microsoft.com/blog/aiplatformblog/goex-a-safer-way-to-build-autonomous-agentic-ai-applications/4121796'>AI platform blog</a>!<br>
+        [Apr 2024] Release GoEx: A runtime for Agentic LLMs. Read more in our <a href='https://gorilla.cs.berkeley.edu/blogs/10_gorilla_exec_engine.html'>release blog</a><br>
+        [Mar 2024] <a href='https://ai.meta.com/blog/raft-llama-retrieval-augmented-generation-supervised-fine-tuning-microsoft/'>Meta</a> and <a href='https://techcommunity.microsoft.com/blog/aiplatformblog/raft-a-new-way-to-teach-llms-to-be-better-at-rag/4084674'>Microsoft</a> cover our RAFT paper!<br>
+        [Mar 2024] Released RAFT: Retrieval-Augmented Fine-Tuning for LLMs.<br>
+        [Feb 2024] Released Berkeley Function Calling Leaderboard (BFCL). Read more in our <a href='https://gorilla.cs.berkeley.edu/leaderboard.html'>release blog</a><br>
+        [Feb 2024] Released Gorilla OpenFunctions-v2. New SOTA in function calling.<br>
         [Dec 2023] Released Gorilla OpenFunctions. Check out our <a href="https://gorilla.cs.berkeley.edu/blogs/4_open_functions.html">release blog</a><br>
         <!-- [Dec 2023] Presenting Gorilla at Microsoft Research, and Google Research Bangalore<br> -->
         [Nov 2023] Presenting Gorilla at at UCL NLP, Meta, and DeepMind London!<br>
